@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Will Daniels test"
-  avatar           : "./images/will_2.png"
+  name             : "Will Daniels test2"
+  avatar           : "will_2.png"
   bio              : "Statistics MS student at the Colorado School of Mines"
   location         : "Golden, CO"
   employer         :
