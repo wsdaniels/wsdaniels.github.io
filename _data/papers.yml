@@ -29,15 +29,15 @@ categories:
 
 
     - title: DJ Basin Stuff
-          authors:
-          - William Daniels
-          - Dorit Hammerling
-          - Morgan Bazilian
-          year: 2020
-          venue: Payne Institute for Public Policy Commentary Series
-          volumeissue: No. NCAR/TN-562+STR
-          links:
-            - text: Payne Institute
-              url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
-            - text: PDF
-              url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Morgan Bazilian
+      year: 2020
+      venue: Payne Institute for Public Policy Commentary Series
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: Payne Institute
+          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
