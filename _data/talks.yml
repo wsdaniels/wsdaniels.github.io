@@ -1,0 +1,43 @@
+categories:
+  - heading: "Submitted or In Prep"
+    pubs:
+    - title: CO Modeling Paper
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      - Helen Worden
+      venue: In Prep
+      year: 2021
+      
+
+  - heading: "Non-Refereed or Working Papers"
+    pubs: 
+    - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      year: 2020
+      venue: NCAR Technical Notes
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: NCAR
+          url: http://dx.doi.org/10.5065/e8xj-3k89
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_regClimateChem_TN.pdf
+
+
+    - title: DJ Basin Stuff
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Morgan Bazilian
+      year: 2020
+      venue: Payne Institute for Public Policy Commentary Series
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: Payne Institute
+          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
