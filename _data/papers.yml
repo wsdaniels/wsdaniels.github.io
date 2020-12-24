@@ -13,7 +13,7 @@ categories:
 
   - heading: "Non-Refereed or Working Papers"
     pubs: 
-    - title: regClimateChem:\ An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide
+    - title: regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide
       authors:
       - William Daniels
       - Dorit Hammerling
