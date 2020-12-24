@@ -1,7 +1,16 @@
 categories:
-  - heading: "Submitted or In Prep"
+  - heading: "Slides"
     pubs:
-    - title: CO Modeling Paper
+    - title: Physics One
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      - Helen Worden
+      venue: In Prep
+      year: 2021
+
+    - title: GRADS
       authors:
       - William Daniels
       - Dorit Hammerling
@@ -11,9 +20,9 @@ categories:
       year: 2021
       
 
-  - heading: "Non-Refereed or Working Papers"
+  - heading: "Posters"
     pubs: 
-    - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
+    - title: EGU
       authors:
       - William Daniels
       - Dorit Hammerling
@@ -28,7 +37,7 @@ categories:
           url: https://wsdaniels.github.io/files/2020_daniels_regClimateChem_TN.pdf
 
 
-    - title: DJ Basin Stuff
+    - title: Physics
       authors:
       - William Daniels
       - Dorit Hammerling
@@ -41,3 +50,33 @@ categories:
           url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
+
+
+    - title: Math open house
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Morgan Bazilian
+      year: 2020
+      venue: Payne Institute for Public Policy Commentary Series
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: Payne Institute
+          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
+
+    - title: Meera's thing
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Morgan Bazilian
+      year: 2020
+      venue: Payne Institute for Public Policy Commentary Series
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: Payne Institute
+          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
+
