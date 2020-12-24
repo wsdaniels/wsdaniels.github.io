@@ -1,31 +1,43 @@
 categories:
-  - heading: "In Press, Submitted, or In Prep"
+  - heading: "Submitted or In Prep"
     pubs:
-    - title: Modeling the effectiveness of olfactory testing to limit SARS-2-CoV transmission
+    - title: CO Modeling Paper
       authors:
-      - Daniel B. Larremore
-      - Derek Toomre
-      - Roy Parker
-      venue: Submitted
-      year: 2020
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1
-        - text: twitterthread
-          url: https://twitter.com/DanLarremore/status/1334238554256338947
-    - title: Risk Factors of SARS-CoV-2 Antibodies in Arapahoe County First Responders - the COVID-19 Arapahoe SErosurveillance Study (CASES) Project
-      authors: 
-      - Katherine R. Sabourin
-      - Jonathan Schultz
-      - Joshua Romero
-      - Molly M. Lamb
-      - Daniel B. Larremore
-      - Thomas E. Morrison
-      - Ashley Frazer
-      - Shanta Zimmer
-      - Ross M. Kedl
-      - Thomas Jaenisch
-      - Rosemary Rochford
-      venue: In Press, Journal of Occupational and Environmental Medicine
-      year: 2020
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      - Helen Worden
+      venue: In Prep
+      year: 2021
+      
 
+  - heading: "Non-Refereed or Working Papers"
+    pubs: 
+    - title: regClimateChem:\ An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      year: 2020
+      venue: NCAR Technical Notes
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: NCAR
+          url: http://dx.doi.org/10.5065/e8xj-3k89
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_regClimateChem_TN.pdf
+
+
+    - title: DJ Basin Stuff
+          authors:
+          - William Daniels
+          - Dorit Hammerling
+          - Morgan Bazilian
+          year: 2020
+          venue: Payne Institute for Public Policy Commentary Series
+          volumeissue: No. NCAR/TN-562+STR
+          links:
+            - text: Payne Institute
+              url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
+            - text: PDF
+              url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf

@@ -34,5 +34,3 @@ author_profile: true
   {% endfor %}
   </ol>
 {% endfor %}
-
-\* denotes equal contribution
