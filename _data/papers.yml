@@ -7,23 +7,24 @@ categories:
       - Dorit Hammerling
       - Rebecca Buchholz
       - Helen Worden
-      venue: In Prep
       year: 2021
+      venue: In Prep
       
 
-  - heading: "Non-Refereed or Working Papers"
-    pubs: 
+    - title: Optimizing Genetic Algorithm Parameters for Atmospheric CarbonMonoxide Modeling
+      authors:
+      - Meera Duggal
+      - William Daniels
+      - Rebecca Buchholz
+      - Dorit Hammerling
+      year: 2021
+      venue: NCAR Technical Notes
 
     - title: A hierarchical Bayesian model for estimating methane fields from TROPOMI observations
       authors:
       - William Daniels
-      year: 2020
+      year: 2021
       venue: Payne Institute for Public Policy Commentary Series
-      links:
-        - text: Payne Institute
-          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
 
 
     - title: Initial findings from continuous monitoring of oil and gas operations
@@ -32,14 +33,13 @@ categories:
       - James Cromption
       - Dorit Hammerling
       - Morgan Bazilian
-      year: 2020
+      year: 2021
       venue: Payne Institute for Public Policy Commentary Series
-      links:
-        - text: Payne Institute
-          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
 
+
+
+  - heading: "Non-Refereed or Working Papers"
+    pubs: 
 
     - title: Aggregation and analysis of methane data in the DJ basin, Colorado
       authors:

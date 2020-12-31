@@ -9,12 +9,11 @@ categories:
       - Dorit Hammerling
       year: 2020
       venue: Electronic Undergraduate Statistics Research Conference (eUSR)
-      volumeissue: Virtual Poster Sessions - 2020
       links:
         - text: eUSR
           url: https://www.causeweb.org/usproc/eusrc/2020/virtual-posters/11
         - text: PDF
-          url: https://wsdaniels.github.io/files/grads_talk.pdf 
+          url: https://wsdaniels.github.io/files/2020_meera_eUSR.pdf 
 
    
     - title: Using the climate to model atmospheric carbon monoxide
@@ -92,10 +91,8 @@ categories:
       year: 2019
       venue: Mines Applied Math and Statistics Open House
       links:
-        - text: Payne Institute
-          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
         - text: PDF
-          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
+          url: https://wsdaniels.github.io/files/2019_ams_open_house.pdf
 
 
     - title: What can elves tell us about very strong lightning?
