@@ -10,8 +10,8 @@ redirect_from:
 
 CV
 ------
-[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: long time ago..)  
-[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: also a long time ago)
+[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: 1/2/21)  
+[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: a long time ago...)
 
 
 Education
