@@ -1,7 +1,7 @@
 categories:
   - heading: "Submitted or In Prep"
     pubs:
-    - title: CO Modeling Paper
+    - title: A framework for examining the connection between atmospheric carbon monoxide and climate indices at multiple levels of complexity [working title]
       authors:
       - William Daniels
       - Dorit Hammerling
@@ -23,9 +23,17 @@ categories:
     - title: A hierarchical Bayesian model for estimating methane fields from TROPOMI observations
       authors:
       - William Daniels
+      - Doug Nychka
+      - Dorit Hammerling
       year: 2021
       venue: Payne Institute for Public Policy Commentary Series
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_bayesian_model_WORKING.pdf
 
+
+  - heading: "Non-Refereed or Working Papers"
+    pubs: 
 
     - title: Initial findings from continuous monitoring of oil and gas operations
       authors:
@@ -35,11 +43,12 @@ categories:
       - Morgan Bazilian
       year: 2021
       venue: Payne Institute for Public Policy Commentary Series
+      links:
+	- text: Payne Institute
+	  url: https://payneinstitute.mines.edu/wp-content/uploads/sites/149/2021/01/Payne-Institute-Commentary-Initial-Findings-from-Continuous-Monitoring.pdf
+	- text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_inital_findings_cont_mont.pdf
 
-
-
-  - heading: "Non-Refereed or Working Papers"
-    pubs: 
 
     - title: Aggregation and analysis of methane data in the DJ basin, Colorado
       authors:
