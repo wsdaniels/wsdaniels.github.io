@@ -61,7 +61,7 @@ categories:
       - Aidan Dykstal
       - Sean Crowell
       year: 2020
-      venue: EGU General Assembly
+      venue: European Geosciences Union (EGU) General Assembly
       links:
         - text: EGU
           url: https://doi.org/10.5194/egusphere-egu2020-22133
@@ -105,4 +105,16 @@ categories:
       links:
         - text: PDF
           url: https://wsdaniels.github.io/files/physics_undergrad_research.pdf
+
+
+    - title: Characterization of Molecular Structure and Interlinkage Network for Seven Representative Biorefinery Lignin
+      authors:
+      - William Daniels
+      - Ruoshui Ma
+      - Xiao Zhang
+      year: 2016
+      venue: Northwest Advanced Renewables Alliance (NARA) Summer Undergraduate Research Experience (SURE)
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2016_daniels_nara_sure.pdf
    
