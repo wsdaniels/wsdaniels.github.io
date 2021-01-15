@@ -44,9 +44,9 @@ categories:
       year: 2021
       venue: Payne Institute for Public Policy Commentary Series
       links:
-	- text: Payne Institute
+        - text: Payne Institute
 	  url: https://payneinstitute.mines.edu/wp-content/uploads/sites/149/2021/01/Payne-Institute-Commentary-Initial-Findings-from-Continuous-Monitoring.pdf
-	- text: PDF
+        - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_inital_findings_cont_mont.pdf
 
 
