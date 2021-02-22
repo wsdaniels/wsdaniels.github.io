@@ -1,0 +1,146 @@
+categories:
+  
+  - heading: "Invited Talks"
+    pubs:
+
+    - title: Methane emission monitoring at multiple spatiotemporal resolutions
+      authors: 
+      - Dorit Hammerling
+      - William Daniels
+      - Meng Jia
+      - Morgan Bazilian
+      year: 2021
+      venue: Spatial and Temporal Statistics Symposium (STSS)
+
+  - heading: "Contributed Talks"
+    pubs:
+
+    - title: Using atmospheric carbon monoxide models to predict fire season intensity
+      authors: 
+      - William Daniels
+      - Fatimah Ahamad
+      - Rebecca Buchholz
+      - Dorit Hammerling
+      - Helen Worden
+      year: 2021
+      venue: Spatial and Temporal Statistics Symposium (STSS)
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/daniels_STSS_2021.pdf 
+
+    - title: Optimizing genetic algorithm parameters for atmospheric carbon monoxide modeling
+      authors:
+      - Meera Duggal
+      - William Daniels
+      - Dorit Hammerling
+      year: 2020
+      venue: Electronic Undergraduate Statistics Research Conference (eUSR)
+      links:
+        - text: eUSR
+          url: https://www.causeweb.org/usproc/eusrc/2020/virtual-posters/11
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_meera_eUSR.pdf 
+
+   
+    - title: Using the climate to model atmospheric carbon monoxide
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      year: 2020
+      venue: Mines Graduate Research and Discovery Symposium (GRADS)
+      volumeissue: 8th Annual
+      links:
+        - text: GRADS
+          url: https://www.youtube.com/watch?v=6T-UsoqnUlw&feature=youtu.be&ab_channel=MinesGRADS
+        - text: PDF
+          url: https://wsdaniels.github.io/files/grads_talk.pdf
+
+
+    - title: What can elves tell us about very strong lightning?
+      authors:
+      - William Daniels
+      - Kevin-Druis Merenda
+      - Lawrence Wiencke
+      year: 2019
+      venue: APS April Meeting
+      volumeissue: Volume 64, Number 3
+      links:
+        - text: APS
+          url: https://meetings.aps.org/Meeting/APR19/Session/G12.2
+        - text: PDF
+          url: https://wsdaniels.github.io/files/daniels_aps_talk.pdf
+     
+
+
+
+
+
+
+  - heading: "Posters"
+    pubs: 
+    - title: Student-led investigation of TROPOMI data for the US
+      authors:
+      - Dorit Hammerling
+      - Lewis Blake
+      - William Daniels
+      - Aidan Dykstal
+      - Sean Crowell
+      year: 2020
+      venue: European Geosciences Union (EGU) General Assembly
+      links:
+        - text: EGU
+          url: https://doi.org/10.5194/egusphere-egu2020-22133
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_egu_poster.pdf
+
+
+    - title: Genetic algorithm optimization study for atmospheric carbon monoxide models
+      authors:
+      - Meera Duggal
+      - William Daniels
+      - Dorit Hammerling
+      year: 2020
+      venue: Mines Undergraduate Research Symposium
+      links:
+        - text: Mines
+          url: https://www.mines.edu/undergraduate-research/genetic-algorithm-optimization-study-for-atmospheric-carbon-monoxide-models/
+        - text: PDF
+          url: https://wsdaniels.github.io/files/meera_undergrad_research.pdf
+
+
+    - title: Improving atmospheric carbon monoxide models
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Rebecca Buchholz
+      year: 2019
+      venue: Mines Applied Math and Statistics Open House
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2019_ams_open_house.pdf
+
+
+    - title: What can elves tell us about very strong lightning?
+      authors:
+      - William Daniels
+      - Kevin-Druis Merenda
+      - Lawrence Wiencke
+      year: 2019
+      venue: Physics Undergraduate Research Symposium
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/physics_undergrad_research.pdf
+
+
+    - title: Characterization of Molecular Structure and Interlinkage Network for Seven Representative Biorefinery Lignin
+      authors:
+      - William Daniels
+      - Ruoshui Ma
+      - Xiao Zhang
+      year: 2016
+      venue: Northwest Advanced Renewables Alliance (NARA) Summer Undergraduate Research Experience (SURE)
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2016_daniels_nara_sure.pdf
+   
