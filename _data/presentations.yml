@@ -1,6 +1,6 @@
 categories:
-  
-  - heading: "Invited Talks"
+
+  - heading: "Talks"
     pubs:
 
     - title: Methane emission monitoring at multiple spatiotemporal resolutions
@@ -11,9 +11,6 @@ categories:
       - Morgan Bazilian
       year: 2021
       venue: Spatial and Temporal Statistics Symposium (STSS)
-
-  - heading: "Contributed Talks"
-    pubs:
 
     - title: Using atmospheric carbon monoxide models to predict fire season intensity
       authors: 
