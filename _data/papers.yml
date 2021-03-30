@@ -19,9 +19,6 @@ categories:
       - Dorit Hammerling
       year: 2021
       venue: NCAR Technical Notes, In Prep
-      links:
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_duggal_genetic_opt_IN_PREP.pdf
 
 
     - title: A hierarchical Bayesian model for estimating methane fields from TROPOMI observations
@@ -31,9 +28,6 @@ categories:
       - Dorit Hammerling
       year: 2021
       venue: Payne Institute for Public Policy Commentary Series, In Prep
-      links:
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_daniels_bayesian_model_IN_PREP.pdf
 
 
   - heading: "Non-Refereed or Working Papers"
