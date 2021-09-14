@@ -102,8 +102,8 @@ categories:
       year: 2021
       venue: International Global Atmospheric Chemistry (IGAC) 16th Scientific Conference - Southern Hemispheres Session
       links:
-    - text: PDF
-           url: https://wsdaniels.github.io/files/2021_daniels_IGAC_poster.pdf
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2021_daniels_IGAC_poster.pdf
 
 
     - title: Student-led investigation of TROPOMI data for the US
