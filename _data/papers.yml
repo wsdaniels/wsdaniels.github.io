@@ -1,43 +1,26 @@
 categories:
   - heading: "Submitted or In Prep"
     pubs:
-    - title: A framework for examining the connection between atmospheric carbon monoxide and climate indices at multiple levels of complexity [working title]
+    - title: Predicting fire season intensity in Maritime Southeast Asia with interpretable models.
       authors:
       - William Daniels
       - Dorit Hammerling
       - Rebecca Buchholz
       - Helen Worden
+      - Fatimah Ahamad
       year: 2021
-      venue: In Prep
+      venue: EarthArXiv
+      links:
+	- text: EarthArXiv
+	  url: https://doi.org/10.31223/X59320
+	- text: PDF
+           url: https://wsdaniels.github.io/files/2021_daniels_co_paper_arxiv.pdf
 
 
-    - title: A hierarchical Bayesian model for estimating methane fields from TROPOMI observations
-      authors:
-      - William Daniels
-      - Doug Nychka
-      - Dorit Hammerling
-      year: 2021
-      venue: Payne Institute for Public Policy Commentary Series, In Prep
-
-
-  - heading: "Non-Refereed or Working Papers"
+  - heading: "Non-Refereed Papers"
     pubs: 
 
 
-    - title: Optimizing Genetic Algorithm Parameters for Atmospheric Carbon Monoxide Modeling
-      authors:
-      - Meera Duggal
-      - William Daniels
-      - Rebecca Buchholz
-      - Dorit Hammerling
-      year: 2021
-      venue: NCAR Technical Notes
-      volumeissue: No. NCAR/TN-562+STR
-      links:
-        - text: NCAR
-          url: http://dx.doi.org/10.5065/h45f-c987
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_meera_technote.pdf
 
     - title: Initial findings from continuous monitoring of oil and gas operations
       authors:
@@ -68,7 +51,28 @@ categories:
           url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
 
 
-    - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
+  
+  - heading: "Other Publications"
+    pubs: 
+
+
+    - title: Optimizing Genetic Algorithm Parameters for Atmospheric Carbon Monoxide Modeling
+      authors:
+      - Meera Duggal
+      - William Daniels
+      - Rebecca Buchholz
+      - Dorit Hammerling
+      year: 2021
+      venue: NCAR Technical Notes
+      volumeissue: No. NCAR/TN-562+STR
+      links:
+        - text: NCAR
+          url: http://dx.doi.org/10.5065/h45f-c987
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_meera_technote.pdf
+
+
+  - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
       authors:
       - William Daniels
       - Dorit Hammerling
@@ -81,6 +85,3 @@ categories:
           url: http://dx.doi.org/10.5065/e8xj-3k89
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_regClimateChem_TN.pdf
-
-
-    

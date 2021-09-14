@@ -10,13 +10,13 @@ redirect_from:
 
 CV
 ------
-[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: 2/22/21)  
-[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: 1/15/21)
+[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: 9/14/21)  
+[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: 9/14/21)
 
 
 Education
 ------
-PhD Statistics, Colorado School of Mines, in progress
+PhD Statistics, Colorado School of Mines, in progress  
 M.S. Statistics, Colorado School of Mines, 2021  
 B.S. Engineering Physics, Colorado School of Mines, 2019
 
