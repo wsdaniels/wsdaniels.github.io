@@ -11,10 +11,10 @@ categories:
       year: 2021
       venue: EarthArXiv
       links:
-	- text: EarthArXiv
-	  url: https://doi.org/10.31223/X59320
-	- text: PDF
-           url: https://wsdaniels.github.io/files/2021_daniels_co_paper_arxiv.pdf
+        - text: EarthArXiv
+          url: https://doi.org/10.31223/X59320
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2021_daniels_co_paper_arxiv.pdf
 
 
   - heading: "Non-Refereed Papers"
