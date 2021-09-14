@@ -72,7 +72,7 @@ categories:
           url: https://wsdaniels.github.io/files/2020_meera_technote.pdf
 
 
-  - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
+    - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
       authors:
       - William Daniels
       - Dorit Hammerling
