@@ -29,6 +29,18 @@ categories:
   - heading: "Contributed Talks"
     pubs:
 
+    - title: Predicting fire season intensity in Maritime Southeast Asia with interpretable models
+      authors: 
+      - William Daniels
+      - Rebecca Buchholz
+      - Helen Worden
+      - Fatimah Ahamad
+      - Dorit Hammerling
+      year: 2021
+      venue: American Statistical Association CO/WY Fall Meeting
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2021_daniels_ASA_fall_meeting.pdf
 
     - title: Using atmospheric carbon monoxide models to predict fire season intensity
       authors: 
