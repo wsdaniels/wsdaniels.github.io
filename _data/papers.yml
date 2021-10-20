@@ -85,3 +85,20 @@ categories:
           url: http://dx.doi.org/10.5065/e8xj-3k89
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_regClimateChem_TN.pdf
+
+
+  - heading: "Theses"
+    pubs: 
+
+
+    - title: Statistical Methods for the Interpretation, Prediction, and Localization of Remotely Sensed Atmospheric Pollutants
+      authors:
+      - William Daniels
+      year: 2021
+      venue: ProQuest Dissertations \& Theses Global
+      volumeissue: No. 28497887
+      links:
+        - text: ProQuest
+          url: http://mines.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/statistical-methods-interpretation-prediction/docview/2582822667/se-2?accountid=25386
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2021_daniels_MS_thesis.pdf
