@@ -1,13 +1,13 @@
 categories:
-  - heading: "Submitted or In Prep"
+  - heading: "Submitted or In-Prep"
     pubs:
     - title: Predicting fire season intensity in Maritime Southeast Asia with interpretable models
       authors:
       - William Daniels
-      - Dorit Hammerling
       - Rebecca Buchholz
       - Helen Worden
       - Fatimah Ahamad
+      - Dorit Hammerling
       year: 2021
       venue: EarthArXiv
       links:
@@ -19,8 +19,6 @@ categories:
 
   - heading: "Non-Refereed Papers"
     pubs: 
-
-
 
     - title: Initial findings from continuous monitoring of oil and gas operations
       authors:
@@ -35,25 +33,6 @@ categories:
           url: https://payneinstitute.mines.edu/wp-content/uploads/sites/149/2021/01/Payne-Institute-Commentary-Initial-Findings-from-Continuous-Monitoring-1.pdf
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_continuous_monitoring_initial_findings.pdf
-
-
-    - title: Aggregation and analysis of methane data in the DJ basin, Colorado
-      authors:
-      - William Daniels
-      - Dorit Hammerling
-      - Morgan Bazilian
-      year: 2020
-      venue: Payne Institute for Public Policy Commentary Series
-      links:
-        - text: Payne Institute
-          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
-
-
-  
-  - heading: "Other Publications"
-    pubs: 
 
 
     - title: Optimizing Genetic Algorithm Parameters for Atmospheric Carbon Monoxide Modeling
@@ -71,6 +50,19 @@ categories:
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_meera_technote.pdf
 
+
+    - title: Aggregation and analysis of methane data in the DJ basin, Colorado
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Morgan Bazilian
+      year: 2020
+      venue: Payne Institute for Public Policy Commentary Series
+      links:
+        - text: Payne Institute
+          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
 
     - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
       authors:
@@ -90,7 +82,6 @@ categories:
   - heading: "Theses"
     pubs: 
 
-
     - title: Statistical Methods for the Interpretation, Prediction, and Localization of Remotely Sensed Atmospheric Pollutants
       authors:
       - William Daniels
@@ -102,3 +93,20 @@ categories:
           url: http://mines.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/statistical-methods-interpretation-prediction/docview/2582822667/se-2?accountid=25386
         - text: PDF
           url: https://wsdaniels.github.io/files/2021_daniels_MS_thesis.pdf
+
+
+  - heading: "Data Sets"
+    pubs: 
+
+    - title: Weekly carbon monoxide anomalies over Maritime Southeast Asia and weekly climate indices
+      authors:
+      - Rebecca Buchholz
+      - Helen Worden
+      - Fatimah Ahamad
+      - William Daniels
+      - Dorit Hammerling
+      year: 2021
+      venue: UCAR/NCAR - DASH Repository
+      links:
+        - text: DASH
+          url: https://doi.org/10.5065/s6rv-rc57
