@@ -29,6 +29,23 @@ categories:
   - heading: "Contributed Talks"
     pubs:
 
+    - title: Leveraging multiple continuous monitoring sensors for emissions alerting on oil and gas facilities
+      authors: 
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      - Shyla Kupis
+      - Nasr Alkadi
+      - Anna Scott
+      year: 2021
+      venue: AGU Fall Meeting
+      links: 
+        - text: Recording
+          url: https://wsdaniels.github.io/files/2021_daniels_AGU_recording.mp4
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2021_daniels_AGU_slides.pdf
+
+
     - title: Predicting fire season intensity in Maritime Southeast Asia with interpretable models
       authors: 
       - William Daniels
