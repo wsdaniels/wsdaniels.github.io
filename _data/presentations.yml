@@ -3,6 +3,29 @@ categories:
   - heading: "Invited Talks"
     pubs:
 
+    - title: Leveraging multiple continuous monitoring sensors for emission identification and localization on oil and gas facilities
+      authors:
+      - William Daniels
+      - Meng Jia
+      - Amber Rexwinkle
+      - Dorit Hammerling
+      year: 2022
+      venue: Mines Applied Mathematics and Statistics (AMS) Graduate Student Colloquium 
+      links:
+         - text: PDF
+           url: https://wsdaniels.github.io/files/2022_daniels_grad_student_colloquium.pdf
+
+
+    - title: Building intuition around common statistical learning techniques
+      authors:
+      - William Daniels
+      year: 2022
+      venue: University of Colorado Boulder - Quantitative Exploration and Discussion (QED) Supergroup
+      links:
+         - text: PDF
+           url: https://wsdaniels.github.io/files/2022_daniels_QED.pdf
+
+
     - title: Using climate mode indices to forecast carbon monoxide variability in fire-prone Southern Hemisphere regions
       authors:
       - William Daniels
@@ -121,6 +144,18 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: Data-driven detection of methane leaks from oil and gas
+      authors:
+      - Meng Jia
+      - William Daniels
+      - Amber Rexwinkle
+      - Dorit Hammerling
+      year: 2022
+      venue: Mines Applied Mathematics and Statistics (AMS) Open House
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2022_jia_AMS_open_house.pdf
+
     - title: Using climate mode indices to forecast carbon monoxide variability in fire-prone Southern Hemisphere regions
       authors:
       - William Daniels
@@ -171,7 +206,7 @@ categories:
       - Dorit Hammerling
       - Rebecca Buchholz
       year: 2019
-      venue: Mines Applied Math and Statistics Open House
+      venue: Mines Applied Mathematics and Statistics (AMS) Open House
       links:
         - text: PDF
           url: https://wsdaniels.github.io/files/2019_daniels_AMS_open_house.pdf
