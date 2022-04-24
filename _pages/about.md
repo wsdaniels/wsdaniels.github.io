@@ -10,7 +10,7 @@ redirect_from:
 
 CV
 ------
-[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: March 2022)  
+[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: April 2022)  
 [One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: March 2022)
 
 
