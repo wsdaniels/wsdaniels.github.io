@@ -144,6 +144,18 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: Seasonal and hourly variability of particulate matter 2.5 in Denver
+      authors:
+      - Zi Li
+      - William Daniels
+      - Dorit Hammerling
+      year: 2022
+      venue: Mines Undergraduate Research Symposium
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2022_li_undergrad_symposium.pdf
+
+
     - title: Data-driven detection of methane leaks from oil and gas
       authors:
       - Meng Jia
