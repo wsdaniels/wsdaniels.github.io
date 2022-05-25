@@ -1,20 +1,20 @@
 categories:
   - heading: "Submitted or In-Prep"
     pubs:
-    - title: Predicting fire season intensity in Maritime Southeast Asia with interpretable models
+    - title: Interpretable models capture the complex relationship between climate indices and fire season intensity in Maritime Southeast Asia
       authors:
       - William Daniels
       - Rebecca Buchholz
       - Helen Worden
       - Fatimah Ahamad
       - Dorit Hammerling
-      year: 2021
+      year: 2022
       venue: EarthArXiv
       links:
         - text: EarthArXiv
           url: https://doi.org/10.31223/X59320
         - text: PDF
-          url: https://wsdaniels.github.io/files/2021_daniels_co_paper_arxiv.pdf
+          url: https://wsdaniels.github.io/files/2022_daniels_co_paper_revisions_arXiv.pdf
 
 
   - heading: "Non-Refereed Papers"

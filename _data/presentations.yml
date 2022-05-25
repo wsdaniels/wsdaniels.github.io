@@ -52,6 +52,21 @@ categories:
   - heading: "Contributed Talks"
     pubs:
 
+
+    - title: Interpretable model captures complex relationship between climate variability and fire season intensity in Maritime Southeast Asia
+      authors: 
+      - William Daniels
+      - Rebecca Buchholz
+      - Helen Worden
+      - Fatimah Ahamad
+      - Dorit Hammerling
+      year: 2022
+      venue: International Association of Wildland Fire - Fire and Climate Conference
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2022_daniels_IAWF_talk.pdf
+
+
     - title: Leveraging multiple continuous monitoring sensors for emissions alerting on oil and gas facilities
       authors: 
       - William Daniels
