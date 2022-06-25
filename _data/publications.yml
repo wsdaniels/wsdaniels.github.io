@@ -1,6 +1,24 @@
 categories:
   - heading: "Submitted or In-Prep"
     pubs:
+
+    - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
+      authors:
+      - Jiayang (Lyra) Wang
+      - William Daniels
+      - Dorit Hammerling
+      - Matthew Harrison
+      - Kaylyn Burmaster
+      - Fiji George
+      - Arvind Ravikumar
+      year: 2022
+      venue: ChemRxiv
+      links:
+        - text: ChemRxiv
+          url: https://doi.org/10.26434/chemrxiv-2022-9zh2v
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2022_wang_qmrv_baseline_paper.pdf
+
     - title: Interpretable models capture the complex relationship between climate indices and fire season intensity in Maritime Southeast Asia
       authors:
       - William Daniels
