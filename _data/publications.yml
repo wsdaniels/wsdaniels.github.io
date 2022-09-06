@@ -19,6 +19,9 @@ categories:
         - text: PDF
           url: https://wsdaniels.github.io/files/2022_wang_qmrv_baseline_paper.pdf
 
+  - heading: "Refereed Papers"
+    pubs: 
+
     - title: Interpretable models capture the complex relationship between climate indices and fire season intensity in Maritime Southeast Asia
       authors:
       - William Daniels
@@ -27,12 +30,12 @@ categories:
       - Fatimah Ahamad
       - Dorit Hammerling
       year: 2022
-      venue: EarthArXiv
+      venue: Journal of Geophysical Research: Atmospheres
       links:
+        - text: JGR Atmospheres
+          url: https://doi.org/10.1029/2022JD036774
         - text: EarthArXiv
           url: https://doi.org/10.31223/X59320
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2022_daniels_co_paper_revisions_arXiv.pdf
 
 
   - heading: "Non-Refereed Papers"
