@@ -31,6 +31,7 @@ categories:
       - Dorit Hammerling
       year: 2022
       venue: "Journal of Geophysical Research: Atmospheres"
+      volumeissue: 127, e2022JD036774
       links:
         - text: JGR Atmospheres
           url: https://doi.org/10.1029/2022JD036774
@@ -109,7 +110,7 @@ categories:
       authors:
       - William Daniels
       year: 2021
-      venue: ProQuest Dissertations \& Theses Global
+      venue: "ProQuest Dissertations & Theses Global"
       volumeissue: No. 28497887
       links:
         - text: ProQuest
@@ -129,7 +130,7 @@ categories:
       - William Daniels
       - Dorit Hammerling
       year: 2021
-      venue: UCAR/NCAR - DASH Repository
+      venue: NCAR Geoscience Data Exchange
       links:
-        - text: DASH
+        - text: NCAR
           url: https://doi.org/10.5065/s6rv-rc57
