@@ -41,7 +41,7 @@ categories:
   - heading: "Non-Refereed Papers"
     pubs: 
 
-    - title: Improving satellite monitoring of methane emissions
+    - title: "Improving satellite monitoring of methane emissions: data science is fundamental to better emissions tracking"
       authors:
       - Dorit Hammerling
       - William Daniels
@@ -51,9 +51,10 @@ categories:
       venue: Payne Institute for Public Policy Commentary Series
       links:
         - text: Payne Institute
-          url: https://payneinstitute.mines.edu/wp-content/uploads/sites/149/2021/11/Payne-Institute-Commentary-Improving-satellite-monitoring-of-methane-emissions.pdf
+          url: https://doi.org/10.25676/11124/14106
         - text: PDF
           url: https://wsdaniels.github.io/files/2021_hammerling_satellite_model_article.pdf
+
 
     - title: Initial findings from continuous monitoring of oil and gas operations
       authors:
@@ -65,7 +66,7 @@ categories:
       venue: Payne Institute for Public Policy Commentary Series
       links:
         - text: Payne Institute
-          url: https://payneinstitute.mines.edu/wp-content/uploads/sites/149/2021/01/Payne-Institute-Commentary-Initial-Findings-from-Continuous-Monitoring-1.pdf
+          url: https://doi.org/10.25676/11124/14111
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_continuous_monitoring_initial_findings.pdf
 
@@ -85,19 +86,6 @@ categories:
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_meera_technote.pdf
 
-
-    - title: Aggregation and analysis of methane data in the DJ basin, Colorado
-      authors:
-      - William Daniels
-      - Dorit Hammerling
-      - Morgan Bazilian
-      year: 2020
-      venue: Payne Institute for Public Policy Commentary Series
-      links:
-        - text: Payne Institute
-          url: https://payneinstitute.mines.edu/aggregation-and-analysis-of-methane-data-in-the-dj-basin-colorado/
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_daniels_DJ_basin_report.pdf
 
     - title: "regClimateChem: An R Package for Data Driven Variable Selection Applied to Atmospheric Carbon Monoxide"
       authors:
