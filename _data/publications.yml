@@ -1,5 +1,5 @@
 categories:
-  - heading: "Submitted or In-Prep"
+  - heading: "Submitted"
     pubs:
 
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
@@ -49,7 +49,7 @@ categories:
       - Morgan Bazilian
       - Brooke Bowser
       year: 2021
-      venue: Payne Institute for Public Policy Commentary Series
+      venue: "Payne Institute for Public Policy - Commentary Series"
       links:
         - text: Payne Institute
           url: https://doi.org/10.25676/11124/14106
@@ -64,7 +64,7 @@ categories:
       - Dorit Hammerling
       - Morgan Bazilian
       year: 2021
-      venue: Payne Institute for Public Policy Commentary Series
+      venue: "Payne Institute for Public Policy - Commentary Series"
       links:
         - text: Payne Institute
           url: https://doi.org/10.25676/11124/14111
