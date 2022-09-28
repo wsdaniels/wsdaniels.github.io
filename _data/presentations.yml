@@ -3,6 +3,18 @@ categories:
   - heading: "Invited Talks"
     pubs:
 
+    - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
+      authors:
+      - Lyra Wang
+      - William Daniels
+      - Dorit Hammerling
+      - Matthew Harrison
+      - Kaylyn Burmaster
+      - Fiji George
+      - Arvind Ravikumar
+      year: 2022
+      venue: Stanford - Methane Emissions Technology Alliance (META)
+
     - title: Leveraging multiple continuous monitoring sensors for emission identification and localization on oil and gas facilities
       authors:
       - William Daniels
@@ -10,7 +22,7 @@ categories:
       - Amber Rexwinkle
       - Dorit Hammerling
       year: 2022
-      venue: Mines Applied Mathematics and Statistics (AMS) Graduate Student Colloquium 
+      venue: Colorado School of Mines - Applied Mathematics and Statistics (AMS) Graduate Student Colloquium 
       links:
          - text: PDF
            url: https://wsdaniels.github.io/files/2022_daniels_grad_student_colloquium.pdf
