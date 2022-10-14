@@ -3,6 +3,9 @@ layout: archive
 title: "Presentations"
 permalink: /presentations/
 author_profile: true
+classes: splash
+header:
+    overlay_image: https://wsdaniels.github.io/images/seattle.jpg
 ---
 
 {% for category in site.data.presentations.categories %}
