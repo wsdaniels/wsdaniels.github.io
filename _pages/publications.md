@@ -3,6 +3,10 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.2"
+    overlay_image: /images/twin_lakes.jpeg
 ---
 
 {% for category in site.data.publications.categories %}
