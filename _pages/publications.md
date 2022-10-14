@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+Classes: splash
 header:
     overlay_color: "#000"
     overlay_filter: "0.2"
