@@ -1,5 +1,5 @@
 ---
-title: "Will Daniels"
+title: ""
 permalink: /
 author_profile: true
 redirect_from: 
