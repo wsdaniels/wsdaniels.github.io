@@ -1,6 +1,7 @@
 categories:
-  - heading: "Submitted"
-    pubs:
+
+  - heading: "Refereed Papers"
+    pubs: 
 
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
       authors:
@@ -12,15 +13,13 @@ categories:
       - Fiji George
       - Arvind Ravikumar
       year: 2022
-      venue: ChemRxiv
+      venue: Environmental Science and Technology
       links:
+        - text: "ES&T"
+          url: https://doi.org/10.1021/acs.est.2c06211
         - text: ChemRxiv
           url: https://doi.org/10.26434/chemrxiv-2022-9zh2v
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2022_wang_qmrv_baseline_paper.pdf
 
-  - heading: "Refereed Papers"
-    pubs: 
 
     - title: Interpretable models capture the complex relationship between climate indices and fire season intensity in Maritime Southeast Asia
       authors:
