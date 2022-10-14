@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
+    overlay_image: https://wsdaniels.github.io/images/flatirons.jpeg
 ---
 
 {% for category in site.data.publications.categories %}

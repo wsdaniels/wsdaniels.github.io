@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: splash
+header:
+    overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
 ---
 
 
