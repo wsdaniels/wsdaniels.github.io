@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/seattle.jpg
+    overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
 ---
 
 {% for category in site.data.presentations.categories %}
