@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "test"
 permalink: /
 author_profile: true
 redirect_from: 
