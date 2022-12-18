@@ -3,6 +3,14 @@ categories:
   - heading: "Invited Talks"
     pubs:
 
+    - title: Estimating methane emissions on oil and gas facilities using continuous monitoring data
+      authors: 
+      - Dorit Hammerling
+      - William Daniels
+      - Meng Jia
+      year: 2022
+      venue: AGU Fall Meeting
+
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
       authors:
       - Lyra Wang
