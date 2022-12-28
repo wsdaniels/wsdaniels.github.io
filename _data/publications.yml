@@ -1,5 +1,20 @@
 categories:
 
+  - heading: "Preprints"
+    pubs:
+
+    - title: Methane emission detection, localization, and quantification using continuous point-sensors on oil and gas facilities
+      authors:
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2022
+      venue: ChemRxiv
+      links:
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2022-xxkk8
+
+
   - heading: "Refereed Papers"
     pubs: 
 
