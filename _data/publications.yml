@@ -3,6 +3,18 @@ categories:
   - heading: "Preprints"
     pubs:
 
+    - title: Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities
+      authors:
+      - Meng Jia
+      - William Daniels
+      - Dorit Hammerling
+      year: 2023
+      venue: ChemRxiv
+      links:
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2023-hc95q
+
+
     - title: Methane emission detection, localization, and quantification using continuous point-sensors on oil and gas facilities
       authors:
       - William Daniels
@@ -13,18 +25,6 @@ categories:
       links:
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv-2022-xxkk8
-
-
-    - title: Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities
-      authors:
-      - Meng Jia
-      - William Daniels
-      - Dorit Hammerling
-      year: 2022
-      venue: ChemRxiv
-      links:
-        - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2023-hc95q
 
 
   - heading: "Refereed Papers"
