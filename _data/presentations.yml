@@ -179,6 +179,29 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: Using continuous monitoring systems for data-driven methane emissions inventories for oil and gas facilities
+      authors:
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2023
+      venue: Mines Applied Mathematics and Statistics (AMS) Open House
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2023_daniels_ams_open_house.pdf
+
+    - title: Methane emission detection, localization, and quantification using continuous point-sensors on oil and gas facilities
+      authors:
+      - Meng Jia
+      - William Daniels
+      - Dorit Hammerling
+      year: 2023
+      venue: Mines Applied Mathematics and Statistics (AMS) Open House
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2023_jia_ams_open_house.pdf
+
+
     - title: Seasonal and hourly variability of particulate matter 2.5 in Denver
       authors:
       - Zi Li
