@@ -5,5 +5,5 @@ repos:
         url: https://doi.org/10.5065/s6rv-rc57
       - text: Code
         url: https://github.com/wsdaniels/COmodeling
-    description: "We use lagged multiple linear regression to model atmospheric carbon monoxide, a proxy for fire season intensity in the Maritime Continent: <a href="https://doi.org/10.1029/2022JD036774">Daniels, Buchholz, Worden, Ahamad, and Hammerling, <em>JGR: Atmospheres</em>, (2022)</a>."
+    description: We use lagged multiple linear regression to model atmospheric carbon monoxide, a proxy for fire season intensity in the Maritime Continent: <a href="https://doi.org/10.1029/2022JD036774">Daniels, Buchholz, Worden, Ahamad, and Hammerling, <em>JGR Atmospheres</em>, (2022)</a>.
     image_path: /images/will_zoomed.jpeg
