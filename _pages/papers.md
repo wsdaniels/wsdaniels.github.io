@@ -7,7 +7,7 @@ header:
     overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
 ---
 
-{% for category in site.data.publications.categories %}
+{% for category in site.data.papers.categories %}
   <h2>{{category.heading}}</h2>
   <ol>
   {% for paper in category.pubs %}

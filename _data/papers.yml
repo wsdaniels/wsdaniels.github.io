@@ -161,20 +161,3 @@ categories:
           url: http://mines.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/statistical-methods-interpretation-prediction/docview/2582822667/se-2?accountid=25386
         - text: PDF
           url: https://wsdaniels.github.io/files/2021_daniels_MS_thesis.pdf
-
-
-  - heading: "Data Sets"
-    pubs: 
-
-    - title: Weekly carbon monoxide anomalies over Maritime Southeast Asia and weekly climate indices
-      authors:
-      - Rebecca Buchholz
-      - Helen Worden
-      - Fatimah Ahamad
-      - William Daniels
-      - Dorit Hammerling
-      year: 2021
-      venue: NCAR Geoscience Data Exchange
-      links:
-        - text: NCAR
-          url: https://doi.org/10.5065/s6rv-rc57
