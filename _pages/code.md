@@ -1,5 +1,5 @@
 ---
-title: "Code"
+title: "Code & Data"
 permalink: /code/
 author_profile: true
 classes: splash
