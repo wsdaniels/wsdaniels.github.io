@@ -12,5 +12,5 @@ repos:
         url: https://github.com/LarremoreLab/us-faculty-hiring-networks
       - text: Code
         url: https://github.com/LarremoreLab/us-faculty-hiring-and-retention-code
-    description: These data visualizations, datasets, networks, and code are all companions to <a href="https://doi.org/10.1029/2022JD036774">Daniels, Buchholz, Worden, Ahamad, and Hammerling, <em>"JGR: Atmospheres"</em>, (2022)</a>.
+    description: These data visualizations, datasets, networks, and code are all companions to <a href="https://doi.org/10.1029/2022JD036774">"Daniels, Buchholz, Worden, Ahamad, and Hammerling, <em>JGR: Atmospheres</em>, (2022)"</a>.
     image_path: /images/will_zoomed.jpeg
