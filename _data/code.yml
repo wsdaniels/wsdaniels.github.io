@@ -1,5 +1,7 @@
 repos:
   - title: "Modeling fire season intensity"
+    authors:
+    - William Daniels
     links:
       - text: Data
         url: "https://doi.org/10.5065/s6rv-rc57"
