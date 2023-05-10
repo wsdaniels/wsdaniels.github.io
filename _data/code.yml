@@ -6,4 +6,4 @@ repos:
       - text: Code
         url: https://github.com/wsdaniels/COmodeling
     description: Code and data used in <a href="https://doi.org/10.1029/2022JD036774">Daniels, Buchholz, Worden, Ahamad, and Hammerling, <em>JGR Atmospheres</em>, (2022)</a>. The data set includes a time series of five different climate indices and atmospheric carbon monoxide averaged over the Maritime Continent. The code is split into two scripts. The first builds a data matrix of lagged climate index values. The second regresses the atmospheric carbon monoxide time series on the lagged climate indices using regularization for model selection. 
-    image_path: /images/will_zoomed.jpeg
+    image_path: /images/co_modeling.jpg
