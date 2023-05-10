@@ -1,0 +1,16 @@
+repos:
+  - title: "Carbon monoxide modeling"
+    authors:
+    - K. Hunter Wapman
+    - Sam Zhang
+    - Aaron Clauset
+    - Daniel B. Larremore
+    links:
+      - text: Explorable data visualizations
+        url: https://larremorelab.github.io/us-faculty
+      - text: Data
+        url: https://github.com/LarremoreLab/us-faculty-hiring-networks
+      - text: Code
+        url: https://github.com/LarremoreLab/us-faculty-hiring-and-retention-code
+    description: These data visualizations, datasets, networks, and code are all companions to [quantification](https://doi.org/10.26434/chemrxiv-2022-xxkk8).
+    image_path: /images/will_zoomed.jpeg
