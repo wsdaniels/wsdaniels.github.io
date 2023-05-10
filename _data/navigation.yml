@@ -6,6 +6,6 @@ main:
   - title: Presentations
     url: /presentations/
 
-  - title: "Data & Code"
-    url: /data_and_code/
+  - title: Code
+    url: /code/
 

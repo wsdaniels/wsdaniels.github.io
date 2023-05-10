@@ -1,6 +1,6 @@
 ---
-title: "Code & Data"
-permalink: /code_and_data/
+title: "Code"
+permalink: /code/
 author_profile: true
 classes: splash
 header:
