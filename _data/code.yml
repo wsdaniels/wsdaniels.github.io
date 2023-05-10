@@ -1,10 +1,5 @@
 repos:
-  - title: "Carbon monoxide modeling"
-    authors:
-    - K. Hunter Wapman
-    - Sam Zhang
-    - Aaron Clauset
-    - Daniel B. Larremore
+  - title: "Modeling fire season intensity"
     links:
       - text: Explorable data visualizations
         url: https://larremorelab.github.io/us-faculty
