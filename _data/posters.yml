@@ -3,6 +3,28 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: Using continuous methane measurements for inventory development on oil and gas sites: three case studies
+      authors:
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2023
+      venue: International Indian Statistical Association (IISA) Conference
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2023_daniels_IISA_poster.pdf
+
+    - title: Methane emission detection, localization, and quantification using continuous point-sensors on oil and gas facilities
+      authors:
+      - Meng Jia
+      - William Daniels
+      - Dorit Hammerling
+      year: 2023
+      venue: International Indian Statistical Association (IISA) Conference
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2023_jia_IISA_poster.pdf
+
     - title: Using continuous monitoring systems for data-driven methane emissions inventories for oil and gas facilities
       authors:
       - William Daniels
