@@ -3,21 +3,6 @@ categories:
   - heading: "Preprints"
     pubs:
 
-    - title: "Towards multi-scale measurement-informed methane inventories: reconciling bottom-up inventories with top-down measurements using continuous monitoring systems"
-      authors:
-      - William Daniels
-      - Jiayang (Lyra) Wang
-      - Arvind Ravikumar
-      - Matthew Harrison
-      - Selina Roman-White
-      - Fiji George
-      - Dorit Hammerling
-      year: 2023
-      venue: ChemRxiv
-      links:
-        - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2023-jp5nt
-
     - title: Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities
       authors:
       - Meng Jia
@@ -44,6 +29,24 @@ categories:
 
   - heading: "Refereed Papers"
     pubs: 
+
+    - title: "Towards multiscale measurement-informed methane inventories: reconciling bottom-up site-level inventories with top-down measurements using continuous monitoring systems"
+      authors:
+      - William Daniels
+      - Jiayang (Lyra) Wang
+      - Arvind Ravikumar
+      - Matthew Harrison
+      - Selina Roman-White
+      - Fiji George
+      - Dorit Hammerling
+      year: 2023
+      venue: "Environmental Science & Technology"
+      volumeissue: 57(32), 11823-11833
+      links:
+        - text: "ES&T"
+          url: https://doi.org/10.1021/acs.est.3c01121
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2023-jp5nt
 
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
       authors:

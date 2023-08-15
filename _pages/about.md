@@ -13,8 +13,8 @@ header:
 
 CV
 ------
-[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: March 2023)  
-[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: March 2023)
+[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: August 2023)  
+[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: August 2023)
 
 
 Education
