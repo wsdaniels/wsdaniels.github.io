@@ -72,6 +72,17 @@ categories:
   - heading: "Contributed Talks"
     pubs:
 
+    - title: Developing methane emissions inventories for oil and gas production sites using point-in-space continuous monitors
+      authors: 
+      - William Daniels
+      - Lyra Wang
+      - Arvind Ravikumar
+      - Dorit Hammerling
+      year: 2023
+      venue: International Emissions Inventory Conference
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2023_daniels_EPA_slides.pdf
 
     - title: Interpretable model captures complex relationship between climate variability and fire season intensity in Maritime Southeast Asia
       authors: 
