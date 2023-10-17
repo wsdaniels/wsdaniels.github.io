@@ -3,6 +3,15 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: "Using continuous monitoring systems for measurement-informed inventories on oil and gas production sites"
+      authors:
+      - William Daniels
+      year: 2023
+      venue: Energy Emissions Modeling and Data Lab (EEMDL) Annual Conference
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2023_daniels_EEMDL_poster.pdf
+
     - title: "Using continuous methane measurements for inventory development on oil and gas sites: three case studies"
       authors:
       - William Daniels
