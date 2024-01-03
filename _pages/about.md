@@ -13,19 +13,18 @@ header:
 
 CV
 ------
-[Full](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: August 2023)  
-[One Pager](https://wsdaniels.github.io/files/william_daniels_CV_short.pdf) (last updated: August 2023)
+[CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) (last updated: December 2023)  
 
 
 Education
 ------
-PhD Statistics, Colorado School of Mines, in progress  
+Ph.D. Statistics, Colorado School of Mines, in progress  
 M.S. Statistics, Colorado School of Mines, 2021  
-B.S. Engineering Physics, Colorado School of Mines, 2019
+B.S. Physics, Colorado School of Mines, 2019
 
 About Me
 ------
-I am a PhD student in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at the Colorado School of Mines. My research is applied in nature and focuses on methane emissions from the oil and gas sector. Some of my projects include open-source methods for methane emission detection, localization, and [quantification](https://doi.org/10.26434/chemrxiv-2022-xxkk8) using continuous point-sensors, [spatial models](http://mines.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/statistical-methods-interpretation-prediction/docview/2582822667/se-2?accountid=25386) for gridded, satellite-based methane data products, and methods for [accurate emissions accounting](https://doi.org/10.1021/acs.est.2c06211) across oil and gas supply chains using a [range of measurement technologies](https://doi.org/10.1021/acs.est.3c01121).
+I am a PhD candidate in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at the Colorado School of Mines. My research is applied in nature and focuses on methane emissions from the oil and gas sector. Some of my projects include open-source methods for methane emission detection, localization, and [quantification](https://doi.org/10.26434/chemrxiv-2022-xxkk8) using continuous point-sensors, [spatial models](http://mines.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/statistical-methods-interpretation-prediction/docview/2582822667/se-2?accountid=25386) for gridded, satellite-based methane data products, and methods for [accurate emissions accounting](https://doi.org/10.1021/acs.est.2c06211) across oil and gas supply chains using a [range of measurement technologies](https://doi.org/10.1021/acs.est.3c01121).
 
 I am a student researcher at the [Payne Institute for Public Policy](https://payneinstitute.mines.edu/), a data-focused research institute associated with the School of Mines, where I work on the [Responsible Gas Initiative](https://www.mines.edu/global-energy-future/responsiblegas/). I am also a Core Member of the Methane Emissions Technology Alliance ([META](https://ngi.stanford.edu/events/methane-emissions-technology-alliance-meta)), a Stanford-led group of researchers and practitioners focused on detection and mitigation of methane emissions. My research group is a part of the Energy Emissions Modeling and Data Lab ([EEMDL](https://www.eemdl.utexas.edu/)), an initiative seeking to develop transparent models and datasets for accurate greenhouse gas emissions accounting across global oil and gas supply chains.
 
