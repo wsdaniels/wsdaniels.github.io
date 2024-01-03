@@ -3,14 +3,6 @@ categories:
   - heading: "Invited Talks"
     pubs:
 
-    - title: Estimating methane emissions on oil and gas facilities using continuous monitoring data
-      authors: 
-      - Dorit Hammerling
-      - William Daniels
-      - Meng Jia
-      year: 2022
-      venue: AGU Fall Meeting
-
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
       authors:
       - Lyra Wang
@@ -22,6 +14,9 @@ categories:
       - Arvind Ravikumar
       year: 2022
       venue: Stanford - Methane Emissions Technology Alliance (META)
+      links:
+         - text: PDF
+           url: https://wsdaniels.github.io/files/2022_daniels_META_talk.pdf
 
     - title: Leveraging multiple continuous monitoring sensors for emission identification and localization on oil and gas facilities
       authors:
@@ -59,17 +54,8 @@ categories:
          - text: PDF
            url: https://wsdaniels.github.io/files/2021_daniels_IGAC_MANGO_flash_talk.pdf
 
-    - title: Methane emission monitoring at multiple spatiotemporal resolutions
-      authors: 
-      - Dorit Hammerling
-      - William Daniels
-      - Meng Jia
-      - Morgan Bazilian
-      year: 2021
-      venue: Spatial and Temporal Statistics Symposium (STSS)
 
-
-  - heading: "Contributed Talks"
+  - heading: "Conference Presentations"
     pubs:
 
     - title: Developing methane emissions inventories for oil and gas production sites using point-in-space continuous monitors
