@@ -4,6 +4,8 @@ categories:
     pubs:
 
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
+      authors:
+      - William Daniels
       year: 2022
       venue: Stanford - Methane Emissions Technology Alliance (META)
       links:
@@ -13,9 +15,6 @@ categories:
     - title: Leveraging multiple continuous monitoring sensors for emission identification and localization on oil and gas facilities
       authors:
       - William Daniels
-      - Meng Jia
-      - Amber Rexwinkle
-      - Dorit Hammerling
       year: 2022
       venue: Colorado School of Mines - Applied Mathematics and Statistics (AMS) Graduate Student Colloquium 
       links:
@@ -36,10 +35,6 @@ categories:
     - title: Using climate mode indices to forecast carbon monoxide variability in fire-prone Southern Hemisphere regions
       authors:
       - William Daniels
-      - Dorit Hammerling
-      - Rebecca Buchholz
-      - Helen Worden
-      - Fatimah Ahamad
       year: 2021
       venue: International Global Atmospheric Chemistry (IGAC) 16th Scientific Conference - MANGO Session
       links:
