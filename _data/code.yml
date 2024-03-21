@@ -1,9 +1,9 @@
 repos:
-  - title: "Detection, localization, and quantification (DLQ) framework"
+  - title: "Detection, localization, and quantification (DLQ) using continuous monitoring systems (CMS)"
     links:
       - text: "Code & Data"
         url: https://github.com/wsdaniels/DLQ
-    description: Code and data used in <a href="https://doi.org/10.1525/elementa.2023.00110">Daniels et al., <em>Elements</em>, (2024)</a>. Test text.
+    description: Code and data used in <a href="https://doi.org/10.1525/elementa.2023.00110">Daniels et al., <em>Elementa</em>, (2024)</a>. 
     image_path: /images/DLQ.png
 
   - title: "Modeling fire season intensity"
