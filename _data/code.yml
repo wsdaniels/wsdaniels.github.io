@@ -1,5 +1,5 @@
 repos:
-  - title: "Detection, localization, and quantification (DLQ) model for CMS"
+  - title: "Detection, localization, and quantification (DLQ) framework"
     links:
       - text: "Code & Data"
         url: https://github.com/wsdaniels/DLQ
