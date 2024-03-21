@@ -1,4 +1,11 @@
 repos:
+  - title: "Detection, localization, and quantification (DLQ) model for CMS"
+    links:
+      - text: "Code & Data"
+        url: https://github.com/wsdaniels/DLQ
+    description: Code and data used in <a href="https://doi.org/10.1525/elementa.2023.00110">Daniels et al., <em>Elements</em>, (2024)</a>. Test text.
+    image_path: /images/DLQ.png
+
   - title: "Modeling fire season intensity"
     links:
       - text: Data

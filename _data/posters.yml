@@ -3,6 +3,37 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: "Estimating methane emission durations using continuous monitoring systems"
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: Responsible Gas Symposium
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_RGS_duration_model.pdf
+
+    - title: "Using continuous monitoring systems for measurement-informed inventories on oil and gas production sites"
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: Responsible Gas Symposium
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_RGS_MII.pdf
+
+    - title: "Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems"
+      authors:
+      - Meng Jia
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: Responsible Gas Symposium
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_jia_RGS_DLQ.pdf
+
     - title: "Using continuous monitoring systems for measurement-informed inventories on oil and gas production sites"
       authors:
       - William Daniels

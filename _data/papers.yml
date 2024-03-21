@@ -15,20 +15,21 @@ categories:
           url: https://doi.org/10.26434/chemrxiv-2023-hc95q
 
 
-    - title: Methane emission detection, localization, and quantification using continuous point-sensors on oil and gas facilities
+  - heading: "Refereed Papers"
+    pubs: 
+
+    - title: Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems
       authors:
       - William Daniels
       - Meng Jia
       - Dorit Hammerling
-      year: 2022
-      venue: ChemRxiv
+      year: 2024
+      venue: "Elementa: Science of the Anthropocene"
       links:
+        - text: "Elementa"
+          url: https://doi.org/10.1525/elementa.2023.00110
         - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2022-xxkk8
-
-
-  - heading: "Refereed Papers"
-    pubs: 
+          url: https://doi.org/10.26434/chemrxiv-2022-xxkk8-v3
 
     - title: "Toward multiscale measurement-informed methane inventories: reconciling bottom-up site-level inventories with top-down measurements using continuous monitoring systems"
       authors:
