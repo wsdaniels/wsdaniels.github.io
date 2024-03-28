@@ -85,10 +85,10 @@ author:
   bio              : "PhD Candidate in Statistics at the Colorado School of Mines"
   location         : 
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dTbBig0AAAAJ&hl=en"
   email            : "wdaniels@mines.edu"
-  researchgate     : "https://www.researchgate.net/profile/William-Daniels-6"
+  researchgate     : #"https://www.researchgate.net/profile/William-Daniels-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "wsdaniels"
   orcid            : "https://orcid.org/0000-0001-8752-5536"
