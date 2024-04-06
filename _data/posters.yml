@@ -3,6 +3,17 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: "Sampling frequency strategies for methane emissions from oil and gas"
+      authors:
+      - Olga Khaliukova
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: Mines Graduate Research and Discovery Symposium (GRADS)
+      links:
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_olga_GRADS.pdf
+
     - title: "Estimating methane emission durations using continuous monitoring systems"
       authors:
       - William Daniels

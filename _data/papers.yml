@@ -91,6 +91,19 @@ categories:
   - heading: "Non-Refereed Papers and Articles"
     pubs: 
 
+    - title: "New method for tracking down methane emissions on oil and gas sites"
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      - Morgan Bazilian
+      year: 2024
+      venue: "Payne Institute for Public Policy - Commentary Series"
+      links:
+        - text: Payne Institute
+          url: https://doi.org/10.25676/11124/178849
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_DLQ_commentary.pdf
+
     - title: "Improving satellite monitoring of methane emissions: data science is fundamental to better emissions tracking"
       authors:
       - Dorit Hammerling
