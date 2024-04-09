@@ -45,6 +45,18 @@ categories:
   - heading: "Conference Presentations"
     pubs:
 
+    - title: A data-driven algorithm to optimize the placement of continuous monitoring sensors on oil and gas sites
+      authors: 
+      - Meng Jia
+      - Troy Sorensen
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: Mines Graduate Research and Discovery Symposium (GRADS)
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_jia_GRADS.pdf
+
     - title: Estimating methane emission durations using continuous monitoring systems
       authors: 
       - William Daniels
