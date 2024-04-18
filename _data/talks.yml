@@ -45,6 +45,17 @@ categories:
   - heading: "Conference Presentations"
     pubs:
 
+    - title: Comparing different sensor types for continuous monitoring of methane emissions at oil and gas sites
+      authors: 
+      - Michael Basanese
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: Mines Undergraduate Research Symposium
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_basanese_ugrad_symposium.pdf
+
     - title: A data-driven algorithm to optimize the placement of continuous monitoring sensors on oil and gas sites
       authors: 
       - Meng Jia
