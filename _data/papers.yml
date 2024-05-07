@@ -3,6 +3,17 @@ categories:
   - heading: "Preprints"
     pubs:
 
+    - title: Estimating methane emission durations using continuous monitoring systems
+      authors:
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2024
+      venue: ChemRxiv
+      links:
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2024-f921j
+
     - title: Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities
       authors:
       - Meng Jia
@@ -12,7 +23,7 @@ categories:
       venue: ChemRxiv
       links:
         - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2023-hc95q
+          url: https://doi.org/10.26434/chemrxiv-2023-hc95q-v2
 
 
   - heading: "Refereed Papers"
