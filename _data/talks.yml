@@ -45,6 +45,17 @@ categories:
   - heading: "Conference Presentations"
     pubs:
 
+    - title: Estimating methane emission durations using continuous monitoring systems
+      authors: 
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2024
+      venue: American Chemical Society (ACS) Fall Meeting
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_ACS_talk.pdf
+
     - title: Bayesian hierarchical model for methane emission source apportionment
       authors: 
       - William Daniels
