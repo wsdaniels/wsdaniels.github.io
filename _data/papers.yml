@@ -3,6 +3,21 @@ categories:
   - heading: "Preprints"
     pubs:
 
+    - title: Investigating aerial data pre-analysis schemes and site-level methane emission aggregation methods at LNG facilities
+      authors:
+      - Olga Khaliukova
+      - Yuanrui Zhu
+      - Arvind Ravikumar
+      - Gregory Ross
+      - Selina Roman-White
+      - Fiji George
+      - Dorit Hammerling
+      year: 2024
+      venue: ChemRxiv
+      links:
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2024-rgppp
+
     - title: Estimating methane emission durations using continuous monitoring systems
       authors:
       - William Daniels
