@@ -118,13 +118,26 @@ categories:
   - heading: "Non-Refereed Papers and Articles"
     pubs: 
 
+    - title: "Comparison of co-located laser and metal oxide continuous monitoring systems"
+      authors:
+      - Kellis Ward
+      - William Daniels
+      - Dorit Hammerling
+      year: 2024
+      venue: "Payne Institute Commentary Series: Research"
+      links:
+        - text: Payne Institute
+          url: https://doi.org/10.25676/11124/179164
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_ward_mox_vs_laser.pdf
+
     - title: "New method for tracking down methane emissions on oil and gas sites"
       authors:
       - William Daniels
       - Dorit Hammerling
       - Morgan Bazilian
       year: 2024
-      venue: "Payne Institute for Public Policy - Commentary Series"
+      venue: "Payne Institute Commentary Series: Commentary"
       links:
         - text: Payne Institute
           url: https://doi.org/10.25676/11124/178849
@@ -138,7 +151,7 @@ categories:
       - Morgan Bazilian
       - Brooke Bowser
       year: 2021
-      venue: "Payne Institute for Public Policy - Commentary Series"
+      venue: "Payne Institute Commentary Series: Research"
       links:
         - text: Payne Institute
           url: https://doi.org/10.25676/11124/14106
@@ -153,7 +166,7 @@ categories:
       - Dorit Hammerling
       - Morgan Bazilian
       year: 2021
-      venue: "Payne Institute for Public Policy - Commentary Series"
+      venue: "Payne Institute Commentary Series: Research"
       links:
         - text: Payne Institute
           url: https://doi.org/10.25676/11124/14111
