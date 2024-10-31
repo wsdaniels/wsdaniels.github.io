@@ -3,6 +3,20 @@ categories:
   - heading: "Preprints"
     pubs:
 
+    - title: Intercomparison of three continuous monitoring systems on operating oil and gas sites 
+      authors:
+      - William Daniels
+      - Spencer Kidd
+      - Shuting (Lydia) Yang
+      - Shannon Stokes
+      - Arvind Ravikumar
+      - Dorit Hammerling
+      year: 2024
+      venue: ChemRxiv
+      links:
+        - text: "ChemRxiv"
+          url: https://wsdaniels.github.io/
+
     - title: Investigating aerial data pre-analysis schemes and site-level methane emission aggregation methods at LNG facilities
       authors:
       - Olga Khaliukova
@@ -19,17 +33,6 @@ categories:
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv-2024-rgppp
 
-    - title: Estimating methane emission durations using continuous monitoring systems
-      authors:
-      - William Daniels
-      - Meng Jia
-      - Dorit Hammerling
-      year: 2024
-      venue: ChemRxiv
-      links:
-        - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2024-f921j
-
     - title: Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities
       authors:
       - Meng Jia
@@ -44,6 +47,19 @@ categories:
 
   - heading: "Refereed Papers"
     pubs: 
+
+    - title: Estimating methane emission durations using continuous monitoring systems
+      authors:
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2024
+      venue: "Environmental Science & Technology Letters"
+      links:
+        - text: "ES&T Letters"
+          url: https://doi.org/10.1021/acs.estlett.4c00687
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2024-f921j-v2
 
     - title: Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems
       authors:
