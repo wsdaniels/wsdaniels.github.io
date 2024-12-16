@@ -45,6 +45,19 @@ categories:
   - heading: "Conference Presentations"
     pubs:
 
+    - title: Comparing continuous methane monitoring technologies on operating oil and gas sites
+      authors: 
+      - Dorit Hammerling
+      - William Daniels
+      - Spencer Kidd
+      year: 2024
+      venue: AGU Fall Meeting
+      links: 
+        - text: AGU
+          url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1650056
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_hammerling_AGU_comparison.pdf
+
     - title: Estimating methane emission durations using continuous monitoring systems
       authors: 
       - William Daniels
@@ -63,6 +76,9 @@ categories:
       - Dorit Hammerling
       year: 2024
       venue: Joint Statistical Meetings (JSM)
+      links: 
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_JSM_MDLQ.pdf
 
     - title: Comparing different sensor types for continuous monitoring of methane emissions at oil and gas sites
       authors: 

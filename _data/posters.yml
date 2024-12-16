@@ -3,6 +3,32 @@ categories:
   - heading: "Posters"
     pubs: 
 
+    - title: A Bayesian hierarchical model for localizing and quantifying multi-source methane emissions on oil and gas sites using continuous monitoring systems
+      authors: 
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2024
+      venue: AGU Fall Meeting
+      links: 
+        - text: AGU
+          url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1654139
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_AGU_MDLQ.pdf
+
+    - title: Estimating methane emission durations using continuous monitoring systems
+      authors: 
+      - William Daniels
+      - Meng Jia
+      - Dorit Hammerling
+      year: 2024
+      venue: AGU Fall Meeting
+      links: 
+        - text: AGU
+          url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1655919
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_AGU_duration.pdf
+
     - title: Estimating methane emission durations using continuous monitoring systems
       authors: 
       - William Daniels
