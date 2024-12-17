@@ -17,7 +17,7 @@ CV
 
 Education
 ------
-**Ph.D. Statistics**, Colorado School of Mines, 2024
+**Ph.D. Statistics**, Colorado School of Mines, 2024  
 **M.S. Statistics**, Colorado School of Mines, 2021  
 **B.S. Physics**, Colorado School of Mines, 2019
 
