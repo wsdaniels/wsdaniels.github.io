@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/rmnp.jpg
+    overlay_image: https://wsdaniels.github.io/images/utah.jpg
 ---
 
 {% for category in site.data.talks.categories %}
