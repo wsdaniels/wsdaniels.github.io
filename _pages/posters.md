@@ -4,7 +4,7 @@ permalink: /posters/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/rmnp.jpg
+    overlay_image: https://wsdaniels.github.io/images/wp.jpeg
 ---
 
 {% for category in site.data.posters.categories %}

@@ -4,7 +4,7 @@ permalink: /code/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/oregon.jpg
+    overlay_image: https://wsdaniels.github.io/images/utah3.jpeg
 
 ---
 
