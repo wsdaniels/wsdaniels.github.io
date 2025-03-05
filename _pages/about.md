@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/flatirons.jpeg
+    overlay_image: https://wsdaniels.github.io/images/longs.jpeg
 ---
 
 
