@@ -3,6 +3,15 @@ categories:
   - heading: "Invited Talks"
     pubs:
 
+    - title: Characterizing methane emissions on oil and gas sites
+      authors:
+      - William Daniels
+      year: 2025
+      venue: Payne Institute for Public Policy - Future Energy Scholars Program
+      links:
+         - text: PDF
+           url: https://wsdaniels.github.io/files/2025_daniels_future_energy_scholars.pdf
+
     - title: Multi-scale methane measurements at oil and gas facilities reveal necessary framework for improved emissions accounting
       authors:
       - William Daniels
