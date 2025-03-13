@@ -1,5 +1,13 @@
 repos:
-  - title: "Detection, localization, and quantification (DLQ) using continuous monitoring systems (CMS)"
+
+  - title: "Probabilistic duration model (PDM)"
+    links:
+      - text: "Code & Data"
+        url: https://github.com/wsdaniels/CMS-durations
+    description: Code and data used in <a href="https://doi.org/10.1021/acs.estlett.4c00687">Daniels et al., <em>ES&T Letters</em>, (2024)</a>. 
+    image_path: /images/PDM.png
+
+  - title: "Detection, localization, and quantification (DLQ) model"
     links:
       - text: "Code & Data"
         url: https://github.com/wsdaniels/DLQ
