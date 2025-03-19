@@ -3,20 +3,6 @@ categories:
   - heading: "Preprints"
     pubs:
 
-    - title: Intercomparison of three continuous monitoring systems on operating oil and gas sites 
-      authors:
-      - William Daniels
-      - Spencer Kidd
-      - Shuting (Lydia) Yang
-      - Shannon Stokes
-      - Arvind Ravikumar
-      - Dorit Hammerling
-      year: 2024
-      venue: ChemRxiv
-      links:
-        - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2024-0vsw6
-
     - title: Investigating aerial data pre-analysis schemes and site-level methane emission aggregation methods at LNG facilities
       authors:
       - Olga Khaliukova
@@ -47,6 +33,22 @@ categories:
 
   - heading: "Refereed Papers"
     pubs: 
+
+    - title: Intercomparison of three continuous monitoring systems on operating oil and gas sites 
+      authors:
+      - William Daniels
+      - Spencer Kidd
+      - Shuting (Lydia) Yang
+      - Shannon Stokes
+      - Arvind Ravikumar
+      - Dorit Hammerling
+      year: 2024
+      venue: ACS ES&T Air
+      links:
+        - text: "ES&T Air"
+          url: https://doi.org/10.1021/acsestair.4c00298
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2024-0vsw6
 
     - title: Estimating methane emission durations using continuous monitoring systems
       authors:
