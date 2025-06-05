@@ -3,7 +3,38 @@ categories:
   - heading: "Preprints"
     pubs:
 
-    - title: Investigating aerial data pre-analysis schemes and site-level methane emission aggregation methods at LNG facilities
+    - title: A Bayesian hierarchical model for methane emission source apportionment
+      authors:
+      - William Daniels
+      - Douglas Nychka
+      - Dorit Hammerling
+      year: 2025
+      venue: arXiv
+      links:
+        - text: "arXiv"
+          url: https://doi.org/10.48550/arXiv.2506.03395
+
+
+  - heading: "Refereed Papers"
+    pubs: 
+
+    - title: A fast and lightweight implementation of the Gaussian puff model for near-field atmospheric transport of trace gasses
+      authors:
+      - Meng Jia
+      - Ryker Fish
+      - William Daniels
+      - Brennan Sprinkle
+      - Dorit Hammerling
+      year: 2025
+      venue: Scientific Reports
+      volumeissue: 15, 18710
+      links:
+        - text: "Scientific Reports"
+          url: https://doi.org/10.1038/s41598-025-99491-x
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2023-hc95q-v4
+
+    - title: Investigating aerial data preanalysis schemes and site-level methane emission aggregation methods at liquefied natural gas facilities
       authors:
       - Olga Khaliukova
       - Yuanrui Zhu
@@ -13,26 +44,13 @@ categories:
       - Selina Roman-White
       - Fiji George
       - Dorit Hammerling
-      year: 2024
-      venue: ChemRxiv
+      year: 2025
+      venue: ACS ES&T Air
       links:
+        - text: "ES&T Air"
+          url: https://doi.org/10.1021/acsestair.4c00301
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv-2024-rgppp
-
-    - title: Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities
-      authors:
-      - Meng Jia
-      - William Daniels
-      - Dorit Hammerling
-      year: 2023
-      venue: ChemRxiv
-      links:
-        - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2023-hc95q-v2
-
-
-  - heading: "Refereed Papers"
-    pubs: 
 
     - title: Intercomparison of three continuous monitoring systems on operating oil and gas sites 
       authors:
