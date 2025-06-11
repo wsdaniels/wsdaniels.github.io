@@ -10,15 +10,16 @@ header:
 {% for category in site.data.papers.categories %}
   <h2>{{category.heading}}</h2>
   <ol>
-  {% for paper in category.pubs %}
-    <li><strong>{{paper.title}}</strong>.
+  {% assign reversed_pubs = category.pubs | reverse %}
+  {% for paper in reversed_pubs %}
+    <li value="{{ forloop.rindex }}"><strong>{{paper.title}}</strong>.
     <br>
     {% for author in paper.authors %}
       {% if forloop.last %}
         {{author}}.
-    {% else %}
+      {% else %}
         {{author}},
-    {% endif %}
+      {% endif %}
     {% endfor %}
     <br>
     <em>{{paper.venue}}</em>, 
