@@ -1,6 +1,6 @@
 categories:
 
-  - heading: "Preprints"
+  - heading: "Submitted Papers"
     pubs:
 
     - title: A Bayesian hierarchical model for methane emission source apportionment
@@ -46,6 +46,7 @@ categories:
       - Dorit Hammerling
       year: 2025
       venue: ACS ES&T Air
+      volumeissue: 2(6), 1009-1019
       links:
         - text: "ES&T Air"
           url: https://doi.org/10.1021/acsestair.4c00301
@@ -156,6 +157,19 @@ categories:
   - heading: "Non-Refereed Papers and Articles"
     pubs: 
 
+    - title: "Comment on EPA Docket No. EPA-HQ-OAR-2024-0350"
+      authors:
+      - William Daniels
+      - Philip Waggoner
+      - Dorit Hammerling
+      year: 2024
+      venue: "United States Environmental Protection Agency"
+      links:
+        - text: EPA
+          url: https://www.regulations.gov/comment/EPA-HQ-OAR-2024-0350-0057
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2024_daniels_EPA_comment.pdf
+
     - title: "Comparison of co-located laser and metal oxide continuous monitoring systems"
       authors:
       - Kellis Ward
@@ -241,19 +255,3 @@ categories:
           url: http://dx.doi.org/10.5065/e8xj-3k89
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_daniels_regClimateChem_TN.pdf
-
-
-  - heading: "Theses"
-    pubs: 
-
-    - title: Statistical Methods for the Interpretation, Prediction, and Localization of Remotely Sensed Atmospheric Pollutants
-      authors:
-      - William Daniels
-      year: 2021
-      venue: "ProQuest Dissertations & Theses Global"
-      volumeissue: No. 28497887
-      links:
-        - text: ProQuest
-          url: http://mines.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/statistical-methods-interpretation-prediction/docview/2582822667/se-2?accountid=25386
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2021_daniels_MS_thesis.pdf
