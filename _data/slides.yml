@@ -1,13 +1,25 @@
 slides:
 
-- title: "Characterizing methane emissions on oil and gas sites"
-  url: https://wsdaniels.github.io/files/2025_daniels_future_energy_scholars.pdf
-  image_path: /images/slide_thumbnails/test2.png
+- title: "CMS #1: Modeling single-source emissions"
+  url: https://wsdaniels.github.io/files/slides/CMS1_single_source.pdf
+  image_path: /images/slide_thumbnails/CMS1_single_source.png
 
-- title: "test title"
-  url: https://wsdaniels.github.io/files/2022_daniels_META_talk.pdf
-  image_path: /images/slide_thumbnails/test2.png
+- title: "CMS #2: Bottom-up top-down reconciliation"
+  url: https://wsdaniels.github.io/files/slides/CMS2_reconciliation.pdf
+  image_path: /images/slide_thumbnails/CMS2_reconciliation.png
 
-- title: "grad student colloquium"
-  url: https://wsdaniels.github.io/files/2022_daniels_grad_student_colloquium.pdf
-  image_path: /images/slide_thumbnails/test2.png
+- title: "CMS #3: Modeling multisource emissions"
+  url: https://wsdaniels.github.io/files/slides/CMS3_multisource.pdf
+  image_path: /images/slide_thumbnails/CMS3_multisource.pdf
+
+- title: "CMS #4: Estimating emission durations"
+  url: https://wsdaniels.github.io/files/slides/CMS4_durations.pdf
+  image_path: /images/slide_thumbnails/CMS4_durations.png
+
+- title: "Gaussian puff overview"
+  url: https://wsdaniels.github.io/files/2025_daniels_Gaussian_puff_workshop.pdf
+  image_path: /images/slide_thumbnails/2025_daniels_Gaussian_puff_workshop.png
+
+- title: "Statistical learning overview"
+  url: https://wsdaniels.github.io/files/2022_daniels_QED.pdf
+  image_path: /images/slide_thumbnails/2022_daniels_QED.png
