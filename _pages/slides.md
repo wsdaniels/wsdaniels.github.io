@@ -7,7 +7,7 @@ header:
     overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
 ---
 
-See my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) for a full list of talks and a selection of poster presentations. Below are some slides that may be useful.
+See my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) for a full list of talks and a selection of poster presentations. Below are a handful of slide decks that may be useful.
 
 <div>
     {% for deck in site.data.slides.slides %}
