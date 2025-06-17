@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/flatirons.jpeg
+    overlay_image: https://wsdaniels.github.io/images/utah.jpg
 ---
 
 {% for category in site.data.papers.categories %}

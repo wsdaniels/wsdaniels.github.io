@@ -3,14 +3,8 @@ main:
   - title: Papers
     url: /papers/
 
-  - title: Talks
-    url: /talks/
-
   - title: Slides
     url: /slides/
-
-  - title: Posters
-    url: /posters/
 
   - title: Code & Data
     url: /code/
