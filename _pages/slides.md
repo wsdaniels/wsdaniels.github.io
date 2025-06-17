@@ -4,7 +4,7 @@ permalink: /slides/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/utah.jpg
+    overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
 ---
 
 See my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf) for a full list of talks and a selection of poster presentations. Below are some slides that may be useful.
