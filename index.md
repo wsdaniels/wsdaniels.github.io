@@ -7,7 +7,7 @@ header:
     overlay_image: https://wsdaniels.github.io/images/longs.jpeg
 ---
 
-<span style="font-size: 20px;">**I’m an applied statistician using remote sensing data across spatial scales to study greenhouse gas emissions and the carbon cycle.**</span>
+<span style="font-size: 24px;">Welcome! I’m an applied statistician using remote sensing data across spatial scales to study greenhouse gas emissions and the carbon cycle.</span>
 
 
 Education
