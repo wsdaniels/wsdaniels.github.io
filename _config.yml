@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "William Daniels"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "William Daniels"
 description              : &description "personal description goes here"
