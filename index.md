@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 permalink: /
 author_profile: true
 classes: splash
