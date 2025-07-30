@@ -10,9 +10,7 @@ header:
 
 Welcome!
 ------
-I’m an applied statistician using remote sensing data across spatial scales to study greenhouse gas emissions and the carbon cycle. 
-
-You can read more about me below or use the links above to see a list of [papers](https://wsdaniels.github.io/papers/) and [slides](https://wsdaniels.github.io/slides/), a description of my [research](https://wsdaniels.github.io/research/) projects, or my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
+I’m an applied statistician using remote sensing data across spatial scales to study greenhouse gas emissions and the carbon cycle. You can read more about me below or use the links above to see a list of [papers](https://wsdaniels.github.io/papers/) and [slides](https://wsdaniels.github.io/slides/), a description of my [research](https://wsdaniels.github.io/research/) projects, or my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
 
 
 Education
