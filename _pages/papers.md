@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: ""
 permalink: /papers/
 author_profile: true
 classes: splash
