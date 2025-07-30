@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "About"
 permalink: /
 author_profile: true
 classes: splash
@@ -7,15 +7,20 @@ header:
     overlay_image: https://wsdaniels.github.io/images/longs.jpeg
 ---
 
-<span style="font-size: 20px;">I’m an applied statistician studying greenhouse gas emissions and the carbon cycle using remote sensing across spatial scales.</span> 
+<span style="font-size: 50px;">I’m an applied statistician using remote sensing data at different spatial scales to study greenhouse gas emissions and the carbon cycle.</span> 
 
-You can use the links above to see a list of [publications](https://wsdaniels.github.io/papers/), read a description of my current and previous [research](https://wsdaniels.github.io/research/) projects, or view my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
-
-
+You can use the links above to see a list of my [papers](https://wsdaniels.github.io/papers/) and [slides](https://wsdaniels.github.io/slides/), read a description of my current and previous [research](https://wsdaniels.github.io/research/) projects, and view my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
 
 
-### About me
+Education
+------
+Ph.D. Statistics, Colorado School of Mines, 2024  
+M.S. Statistics, Colorado School of Mines, 2021  
+B.S. Physics, Colorado School of Mines, 2019
 
+
+About Me
+------
 I'm currently a postdoc in the [Department of Environmental Health and Engineering](https://publichealth.jhu.edu/departments/environmental-health-and-engineering) at Johns Hopkins University. My research is applied in nature and focuses on methane emissions from the oil and gas sector. Some of my projects include open-source methods for methane emission detection, localization, and [quantification](https://doi.org/10.1525/elementa.2023.00110) using continuous point-sensors, [spatial models](https://wsdaniels.github.io/files/2021_daniels_MS_thesis.pdf) for gridded, satellite-based methane data products, and methods for [accurate emissions accounting](https://doi.org/10.1021/acs.est.2c06211) across oil and gas supply chains using a [range of measurement technologies](https://doi.org/10.1021/acs.est.3c01121).
 
 I'm also a Core Member of the Methane Emissions Technology Alliance ([META](https://ngi.stanford.edu/events-news/meta-seminars)), a Stanford-led group of researchers and practitioners focused on detection and mitigation of methane emissions. During my PhD, I was a student researcher at the [Payne Institute for Public Policy](https://payneinstitute.mines.edu/), a data-focused research institute associated with the School of Mines, where I worked on the [Responsible Gas Initiative](https://www.mines.edu/global-energy-future/responsiblegas/). I was also affiliated with the Energy Emissions Modeling and Data Lab ([EEMDL](https://www.eemdl.utexas.edu/)), an initiative seeking to develop transparent models and datasets for accurate greenhouse gas emissions accounting across global oil and gas supply chains.
