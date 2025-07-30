@@ -1,4 +1,5 @@
 ---
+title: "Research"
 permalink: /research/
 author_profile: true
 classes: splash
@@ -7,35 +8,34 @@ header:
 ---
 
 
-### Methane Emissions from Oil and Gas Systems
+### Estimating methane emission durations
 
-
-Working to improve satellite-based estimates of methane emissions from energy infrastructure, using data assimilation and inverse modeling approaches.
+See the [paper](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00687) for more details. The accompanying code and data can be found [here](https://github.com/wsdaniels/CMS-durations). 
 
 <div style="text-align: center;">
-  <img src="/images/DLQ.png" alt="Methane emissions" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/PDM.png" alt="Methane emissions" style="max-width: 80%; height: auto;">
 </div>
 
 
 
-### Data-Driven Earth System Science
+### Methane emission detection, localization, and quantification using point sensor networks
 
-Using machine learning to constrain biogeochemical fluxes and understand feedbacks in the carbon cycle.
+Multiple methods for estimating emission source and rate using point sensor networks. 
 
 <div style="text-align: center;">
-  <img src="/images/PDM.png" alt="Data-driven Earth system science" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/DLQ.png" alt="Data-driven Earth system science" style="max-width: 80%; height: auto;">
 </div>
 
 
 
 
 
-### Policy-Relevant Carbon Accounting
+### Modeling atmospheric carbon monoxide from fires
 
-Collaborating with stakeholders to make emissions information actionable for climate mitigation, particularly in subnational settings.
+See the [paper](https://doi.org/10.1029/2022JD036774) for more details. The accompanying code and data can be found [here](https://github.com/wsdaniels/COmodeling). The data set includes a time series of five different climate indices and atmospheric carbon monoxide averaged over the Maritime Continent. The code is split into two scripts. The first builds a data matrix of lagged climate index values. The second regresses the atmospheric carbon monoxide time series on the lagged climate indices using regularization for model selection. 
 
 <div style="text-align: center;">
-  <img src="/images/co_modeling.jpg" alt="Carbon accounting" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/co_modeling.png" alt="Carbon accounting" style="max-width: 80%; height: auto;">
 </div>
 
 

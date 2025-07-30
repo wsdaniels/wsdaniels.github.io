@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About me"
 permalink: /
 author_profile: true
 classes: splash
@@ -7,9 +7,7 @@ header:
     overlay_image: https://wsdaniels.github.io/images/longs.jpeg
 ---
 
-**I’m an applied statistician using remote sensing data across spatial scales to study greenhouse gas emissions and the carbon cycle.**
-
-You can use the links above to see a list of [papers](https://wsdaniels.github.io/papers/) and [slides](https://wsdaniels.github.io/slides/), read a description of my current and past [research](https://wsdaniels.github.io/research/) projects, and view my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
+<span style="font-size: 20px;">**I’m an applied statistician using remote sensing data across spatial scales to study greenhouse gas emissions and the carbon cycle.**</span>
 
 
 Education
