@@ -10,19 +10,21 @@ header:
 
 ## Inverse methods for point sensor networks
 
-We developed two inverse methods for estimating methane emission source and rate on oil and gas facilities using concentration and wind data from point sensor networks. Both models use an atmospheric transport model to forward simulate the movement of methane from source to sensor. The first model is theoretically and computationally simpler, but relies on the assumption that only one source is emitting at a time. We call this model the detection, localization, and quantification (DLQ) model. The paper on the DLQ model also introduces an algorithm for identifying rapid enhancements ("spikes") in a concentration time series, which has a wide variety of applications. The second model uses a hierarchical Bayesian framework to estimate emission rates and relaxes the single source assumption. We call this model the multisource detection, localization, and quantification (MDLQ) model. The MDLQ model accounts for autocorrelation in the sensor data and uses a sparsity-inducing prior to reflect the intermittent nature of methane emissions on oil and gas sites. Both models have been evaluated on controlled releases at the Methane Emissions Technology Evaluation Center (METEC). The code behind these models is completely open-source, providing a baseline level of performance for private sensor solutions operating in this space. Projects that I was involved in are bolded below.
+We developed two inverse methods for estimating methane emission source and rate on oil and gas facilities using concentration and wind data from point sensor networks. Both models use an atmospheric transport model to forward simulate the movement of methane from source to sensor. The first model is theoretically and computationally simpler, but relies on the assumption that only one source is emitting at a time. We call this model the detection, localization, and quantification (DLQ) model. The paper on the DLQ model also introduces an algorithm for identifying rapid enhancements ("spikes") in a concentration time series, which has a wide variety of applications. The second model uses a hierarchical Bayesian framework to estimate emission rates and relaxes the single source assumption. We call this model the multisource detection, localization, and quantification (MDLQ) model. The MDLQ model accounts for autocorrelation in the sensor data and uses a sparsity-inducing prior to reflect the intermittent nature of methane emissions on oil and gas sites. 
 
-**Single-source DLQ model paper**: [Daniels et al., 2024](https://doi.org/10.1525/elementa.2023.00110)    
-**Single-source DLQ model code**: [GitHub](https://github.com/wsdaniels/DLQ)    
-**Multisource MDLQ model paper**: [Daniels et al., 2025](https://doi.org/10.48550/arXiv.2506.03395)    
-**Multisource MDLQ model code**: coming soon!
+Both models have been evaluated on controlled releases at the Methane Emissions Technology Evaluation Center (METEC). The code behind these models is completely open-source, providing a baseline level of performance for private sensor solutions operating in this space. Projects that I was involved in are bolded below.
+
+**DLQ model (single source) paper**: [Daniels et al., 2024](https://doi.org/10.1525/elementa.2023.00110)    
+**DLQ model (single source) code**: [GitHub](https://github.com/wsdaniels/DLQ)    
+**MDLQ model (multisource) paper**: [Daniels et al., 2025](https://doi.org/10.48550/arXiv.2506.03395)    
+**MDLQ model (multisource) code**: coming soon!
 
 <div style="text-align: center;">
-  <img src="/images/research_page/DLQ.png" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/DLQ.png" style="max-width: 100%; height: auto;">
 </div>
 
 
-## Fast implementation of the Gaussian puff atmospheric dispersion model
+## Fast implementation of the Gaussian puff dispersion model
 
 We created a computationally efficient implementation of the Gaussian puff model for the atmospheric transport of methane (or other trace gasses) in near-field environments. The implementation reduces unnecessary calculations by limiting the number of active puffs in the simulation via an adaptive spatiotemporal threshold, achieving over a 100x speedup compared to a naive implementations. Using controlled release data from the Methane Emissions Technology Evaluation Center (METEC), we show that this Gaussian puff model outperforms the more commonly used Gaussian plume model for near-field transport. This fast, lightweight model supports real-time emission inference from continuous monitoring systems and is suitable for large-scale deployment. Plus, all of the code is open-source! Projects that I was involved in are bolded below.
 
@@ -30,7 +32,7 @@ We created a computationally efficient implementation of the Gaussian puff model
 **Fast Gaussian puff code**: [GitHub](https://github.com/Hammerling-Research-Group/FastGaussianPuff)
 
 <div style="text-align: center;">
-  <img src="/images/research_page/puff_movie_with_wind.gif" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/puff_movie_with_wind.gif" style="max-width: 100%; height: auto;">
 </div>
 
 
@@ -43,7 +45,7 @@ Models for all Southern Hemisphere fire regions: [Buchholz et al., 2018](https:/
 **Updated model for Maritime Southeast Asia**: [Daniels et al., 2022](https://doi.org/10.1029/2022JD036774)
 
 <div style="text-align: center;">
-  <img src="/images/research_page/co_modeling.png" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/co_modeling.png" style="max-width: 100%; height: auto;">
 </div>
 
 
@@ -62,7 +64,7 @@ Liquefaction Paper \#1: [Zhu et al., 2024](https://doi.org/10.1021/acs.estlett.4
 **Synthesis Paper**: [Zhu et al., 2025](https://doi.org/10.26434/chemrxiv-2025-8751d)
 
 <div style="text-align: center;">
-  <img src="/images/research_page/QMRV.png" style="max-width: 80%; height: auto;">
+  <img src="/images/research_page/QMRV.png" style="max-width: 100%; height: auto;">
 </div>
 
 
