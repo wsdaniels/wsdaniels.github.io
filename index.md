@@ -10,16 +10,10 @@ header:
 
 Welcome!
 ------
-I’m an applied statistician studying greenhouse gas emissions and the carbon cycle. My research involves atmospheric inversions of remote sensing data at a range of spatial scales, from ground-based sensors to satellites.
+I’m a statistician studying greenhouse gas emissions and the carbon cycle. I use remote sensing data across spatial scales, from ground-based sensors on individual facilities to satellites with global coverage, to better understand complex emission dynamics.
 
-You can read more about me below or use the links above to see a list of [papers](https://wsdaniels.github.io/papers/) and [slides](https://wsdaniels.github.io/slides/), a description of my [research](https://wsdaniels.github.io/research/) projects, or my [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
+You can read more about me below, or use the links above to explore my [papers](https://wsdaniels.github.io/papers/), slides [slide](https://wsdaniels.github.io/slides/), [research](https://wsdaniels.github.io/research/) projects, and [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
 
-
-Education
-------
-Ph.D. Statistics, Colorado School of Mines, 2024  
-M.S. Statistics, Colorado School of Mines, 2021  
-B.S. Physics, Colorado School of Mines, 2019
 
 
 About Me
