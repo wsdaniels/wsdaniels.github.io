@@ -8,6 +8,19 @@ header:
 ---
 
 
+## Evaluation of continuous monitoring systems on operating sites
+
+We compared continuous monitoring systems (CMS) from three different vendors on six operating oil and gas sites. We highlight similarities and differences between the three CMS solutions when deployed in the field and compare their output to concurrent top-down aerial measurements and to site-level bottom-up inventories. Furthermore, we compare vendor-provided emission rate estimates to estimates from an open-source quantification algorithm applied to the raw CMS concentration data. This experimental setup allows us to separate the effect of the sensor platform (i.e., sensor type and arrangement) from the quantification algorithm. Results from this study have important implications for developing measurement-informed inventories and for incorporating CMS-inferred emission characteristics into emission mitigation efforts. Projects that I was involved in are bolded below.
+
+**Intercomparison paper**: [Daniels et al., 2025](https://doi.org/10.1021/acsestair.4c00298)      
+
+<div style="text-align: center;">
+  <img src="/images/research_page/intercomparison.png" style="max-width: 100%; height: auto;">
+</div>
+
+
+
+
 ## Estimating methane emission durations using point sensor networks
 
 We created a probabilistic model to estimate methane emission durations using concentration data from continuous monitoring systems (CMS) on oil and gas sites. We refer to this model as the Probabilistic Duration Model (PDM). The PDM accounts for a key feature of CMS data: non-detect times, or the times when wind blows emitted methane between CMS sensors. Non-detect times can be incorrectly interpreted as periods of no emissions and therefore must be addressed when performing any inversion with CMS data. The PDM identifies non-detect times using an atmospheric transport model and probabilistically accounts for the fact that emissions can persist into or through these non-detect times. We show that CMS can be used to bound the duration of snapshot methane measurements, but a method similar to the PDM must be used to account for non-detect times. All of the PDM code is open-source. Projects that I was involved in are bolded below.
