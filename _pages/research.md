@@ -8,6 +8,19 @@ header:
 ---
 
 
+## Estimating methane emission durations using point sensor networks
+
+We created a probabilistic model to estimate methane emission durations using concentration data from continuous monitoring systems (CMS) on oil and gas sites. We refer to this model as the Probabilistic Duration Model (PDM). The PDM accounts for a key feature of CMS data: non-detect times, or the times when wind blows emitted methane between CMS sensors. Non-detect times can be incorrectly interpreted as periods of no emissions and therefore must be addressed when performing any inversion with CMS data. The PDM identifies non-detect times using an atmospheric transport model and probabilistically accounts for the fact that emissions can persist into or through these non-detect times. We show that CMS can be used to bound the duration of snapshot methane measurements, but a method similar to the PDM must be used to account for non-detect times. All of the PDM code is open-source. Projects that I was involved in are bolded below.
+
+PDM paper: [Daniels et al., 2024](https://doi.org/10.1021/acs.estlett.4c00687)      
+PDM code: [GitHub](https://github.com/wsdaniels/CMS-durations)
+
+<div style="text-align: center;">
+  <img src="/images/research_page/PDM.png" style="max-width: 100%; height: auto;">
+</div>
+
+
+
 ## Inverse methods for point sensor networks
 
 We developed two inverse methods for estimating methane emission source and rate on oil and gas facilities using concentration and wind data from point sensor networks. Both models use an atmospheric transport model to forward simulate the movement of methane from source to sensor. The first model is theoretically and computationally simpler, but relies on the assumption that only one source is emitting at a time. We call this model the detection, localization, and quantification (DLQ) model. The paper on the DLQ model also introduces an algorithm for identifying rapid enhancements ("spikes") in a concentration time series, which has a wide variety of applications. The second model uses a hierarchical Bayesian framework to estimate emission rates and relaxes the single source assumption. We call this model the multisource detection, localization, and quantification (MDLQ) model. The MDLQ model accounts for autocorrelation in the sensor data and uses a sparsity-inducing prior to reflect the intermittent nature of methane emissions on oil and gas sites. 
