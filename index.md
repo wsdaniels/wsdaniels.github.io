@@ -10,7 +10,7 @@ header:
 
 Welcome!
 ------
-I’m a statistician studying greenhouse gas emissions and the carbon cycle. I use remote sensing data across spatial scales, from point sensors on individual facilities to satellites with global coverage, to better understand complex emission dynamics.
+I’m an applied statistician studying greenhouse gas emissions and the carbon cycle. I use remote sensing data across spatial scales, from point sensors on individual facilities to satellites with global coverage, to better understand complex emission dynamics.
 
 You can read more about me below, or use the links above to explore my [papers](https://wsdaniels.github.io/papers/), [slides](https://wsdaniels.github.io/slides/), [research projects](https://wsdaniels.github.io/research/), or [CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf).
 
