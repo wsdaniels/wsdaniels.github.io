@@ -176,6 +176,29 @@ categories:
   - heading: "Non-Refereed Papers and Articles"
     pubs: 
 
+    - title: "Colorado Ongoing Basin Emissions (COBE) Updated Final Report"
+      authors:
+      - Jenna Brown
+      - Michael Moy
+      - Arthur Santos
+      - Ethan Rimelman
+      - Winrose Mollel
+      - Olga Khaliukova
+      - Callan Okenberg
+      - William Daniels
+      - Dorit Hammerling
+      - Daniel Zimmerle
+      - Anna Hodshire
+      year: 2025
+      venue: "Colorado Department of Public Health and Environment"
+      links:
+        - text: CDPHE
+          url: https://oitco.hylandcloud.com/cdphermpop/docpop/docpop.aspx
+        - text: CSU
+          url: https://hdl.handle.net/10217/242813
+        - text: PDF
+          url: https://wsdaniels.github.io/files/2025_brown_COBE.pdf
+
     - title: "Comment on EPA Docket No. EPA-HQ-OAR-2024-0350"
       authors:
       - William Daniels
