@@ -3,6 +3,16 @@ categories:
   - heading: "Submitted Papers"
     pubs:
 
+    - title: "Sampling variability under extreme skewness: sample size guidance for future methane measurement campaigns"
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      year: 2026
+      venue: EarthArXiv
+      links:
+        - text: "EarthArXiv"
+          url: https://doi.org/10.31223/X5MR0K
+
     - title: Tracking U.S. liquefied natural gas supply chain greenhouse gas emissions intensity through direct measurements
       authors:
       - Yuanrui Zhu
