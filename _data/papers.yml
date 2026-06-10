@@ -3,6 +3,28 @@ categories:
   - heading: "Submitted Papers"
     pubs:
 
+    - title: "No detectable inflection point in U.S. oil and gas methane emissions following the Inflation Reduction Act"
+      authors:
+      - Ao Chen
+      - William Daniels
+      - Ziting Huang
+      - Arvind Ravikumar
+      - Sarah Jordaan
+      - Zhen Zhang
+      - Leyang Feng
+      - Hanyu Liu
+      - Lee Murray
+      - Xueying Yu
+      - Dylan Gaeta
+      - Kristan Morgan
+      - Jialuo Yuan
+      - Scot Miller
+      year: 2026
+      venue: EarthArXiv
+      links:
+        - text: "EarthArXiv"
+          url: https://doi.org/10.21203/rs.3.rs-9295605/v1
+
     - title: "Sampling variability under extreme skewness: sample size guidance for future methane measurement campaigns"
       authors:
       - William Daniels
@@ -12,25 +34,6 @@ categories:
       links:
         - text: "EarthArXiv"
           url: https://doi.org/10.31223/X5MR0K
-
-    - title: Tracking U.S. liquefied natural gas supply chain greenhouse gas emissions intensity through direct measurements
-      authors:
-      - Yuanrui Zhu
-      - Gregory Ross
-      - Jenna Brown
-      - Olga Khaliukova
-      - William Daniels
-      - Jiayang (Lyra) Wang
-      - Selina Roman-White
-      - Fiji George
-      - Daniel Zimmerle
-      - Dorit Hammerling
-      - Arvind Ravikumar
-      year: 2025
-      venue: ChemRxiv
-      links:
-        - text: "ChemRxiv"
-          url: https://doi.org/10.26434/chemrxiv-2025-8751d
 
     - title: A Bayesian hierarchical model for methane emission source apportionment
       authors:
@@ -46,6 +49,27 @@ categories:
 
   - heading: "Refereed Papers"
     pubs: 
+
+- title: Tracking U.S. liquefied natural gas supply chain greenhouse gas emissions intensity through direct measurements
+      authors:
+      - Yuanrui Zhu
+      - Gregory Ross
+      - Jenna Brown
+      - Olga Khaliukova
+      - William Daniels
+      - Jiayang (Lyra) Wang
+      - Selina Roman-White
+      - Fiji George
+      - Daniel Zimmerle
+      - Dorit Hammerling
+      - Arvind Ravikumar
+      year: 2026
+      venue: "Environmental Science & Technology"
+      links:
+        - text: "ES&T"
+          url: https://doi.org/10.1021/acs.est.5c11217
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv-2025-8751d
 
     - title: A fast and lightweight implementation of the Gaussian puff model for near-field atmospheric transport of trace gasses
       authors:
