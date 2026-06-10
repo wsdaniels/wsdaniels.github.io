@@ -50,7 +50,7 @@ categories:
   - heading: "Refereed Papers"
     pubs: 
 
-- title: Tracking U.S. liquefied natural gas supply chain greenhouse gas emissions intensity through direct measurements
+    - title: Tracking U.S. liquefied natural gas supply chain greenhouse gas emissions intensity through direct measurements
       authors:
       - Yuanrui Zhu
       - Gregory Ross
