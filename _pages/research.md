@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: true
 classes: splash
 header:
     overlay_image: https://wsdaniels.github.io/images/seattle.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Slides"
 permalink: /slides/
-author_profile: false
+author_profile: true
 classes: splash
 header:
     overlay_image: https://wsdaniels.github.io/images/twin_lakes.jpeg
