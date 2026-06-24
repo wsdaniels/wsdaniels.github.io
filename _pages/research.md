@@ -8,16 +8,34 @@ header:
 ---
 
 
-## Evaluation of continuous monitoring systems on operating sites
+## Sample size guidance for methane measurement campaigns
 
-We compared continuous monitoring systems (CMS) from three different vendors on six operating oil and gas sites. We highlight similarities and differences between the three CMS solutions when deployed in the field and compare their output to concurrent top-down aerial measurements and to site-level bottom-up inventories. Furthermore, we compare vendor-provided emission rate estimates to estimates from an open-source quantification algorithm applied to the raw CMS concentration data. This experimental setup allows us to separate the effect of the sensor platform (i.e., sensor type and arrangement) from the quantification algorithm. Results from this study have important implications for developing measurement-informed inventories and for incorporating CMS-inferred emission characteristics into emission mitigation efforts.
+How many oil and gas sites do you need to measure to obtain an accurate estimate of average emissions across a broader population of sites? This question has important implications for creating measurement-based or measurement-informed emissions inventories for the oil and gas sector, but it is complicated by the fact that oil and gas methane emissions follow highly right-skewed distributions, where a small number of "super-emitters" heavily influence total emissions. The presence of one super-emitter in a small sample can change the sample mean by an order of magnitude. We quantify some of the statistical implications of sampling from these distributions using six US oil and gas basins as an example and provide sample size guidance in these basins to bound error from sampling variability. We find that characteristics of the largest emissions drive sample size requirements and that differences between basins necessitate basin-specific sampling strategies.
 
-**Intercomparison paper**: [Daniels et al., 2025](https://doi.org/10.1021/acsestair.4c00298)      
+We created a web tool to reproduce our analysis in the six oil and gas basins used in the paper. You can also upload your own distribution of emission rates to this tool to get more targeted sample size guidance if you have representative emissions information a priori in your study domain (e.g., data from a previous measurement campaign). Credit to Michael Basanese at the Colorado School of Mines for developing this web tool!
+
+**Sampling variability paper**: [Daniels et al., 2026](https://doi.org/10.31223/X5MR0K) 
+**Web tool**: [Sampling variability app](https://mbasanese-sampling.share.connect.posit.cloud/)
 
 <div style="text-align: center;">
-  <img src="/images/research_page/intercomparison.png" style="max-width: 75%; height: auto;">
+  <img src="/images/research_page/sampling.png" style="max-width: 100%; height: auto;">
 </div>
 
+
+## Inverse methods for point sensor networks
+
+We developed two inverse methods for estimating methane emission source and rate on oil and gas facilities using concentration and wind data from point sensor networks. Both models use an atmospheric transport model to forward simulate the movement of methane from source to sensor. The first model is theoretically and computationally simpler, but relies on the assumption that only one source is emitting at a time. We call this model the detection, localization, and quantification (DLQ) model. The paper on the DLQ model also introduces an algorithm for identifying rapid enhancements ("spikes") in a concentration time series, which has a wide variety of applications. The second model uses a hierarchical Bayesian framework to estimate emission rates and relaxes the single source assumption. We call this model the multisource detection, localization, and quantification (MDLQ) model. The MDLQ model accounts for autocorrelation in the sensor data and uses a sparsity-inducing prior to reflect the intermittent nature of methane emissions on oil and gas sites. 
+
+Both models have been evaluated on controlled releases at the Methane Emissions Technology Evaluation Center (METEC). The code behind these models is completely open-source, providing a baseline level of performance for private sensor solutions operating in this space. 
+
+**DLQ model (single source) paper**: [Daniels et al., 2024](https://doi.org/10.1525/elementa.2023.00110)    
+**DLQ model (single source) code**: [GitHub](https://github.com/wsdaniels/DLQ)    
+**MDLQ model (multisource) paper**: [Daniels et al., 2026](https://doi.org/10.48550/arXiv.2506.03395)    
+**MDLQ model (multisource) code**: coming soon!
+
+<div style="text-align: center;">
+  <img src="/images/research_page/DLQ.png" style="max-width: 100%; height: auto;">
+</div>
 
 
 
@@ -34,21 +52,6 @@ We created a probabilistic model to estimate methane emission durations using co
 
 
 
-## Inverse methods for point sensor networks
-
-We developed two inverse methods for estimating methane emission source and rate on oil and gas facilities using concentration and wind data from point sensor networks. Both models use an atmospheric transport model to forward simulate the movement of methane from source to sensor. The first model is theoretically and computationally simpler, but relies on the assumption that only one source is emitting at a time. We call this model the detection, localization, and quantification (DLQ) model. The paper on the DLQ model also introduces an algorithm for identifying rapid enhancements ("spikes") in a concentration time series, which has a wide variety of applications. The second model uses a hierarchical Bayesian framework to estimate emission rates and relaxes the single source assumption. We call this model the multisource detection, localization, and quantification (MDLQ) model. The MDLQ model accounts for autocorrelation in the sensor data and uses a sparsity-inducing prior to reflect the intermittent nature of methane emissions on oil and gas sites. 
-
-Both models have been evaluated on controlled releases at the Methane Emissions Technology Evaluation Center (METEC). The code behind these models is completely open-source, providing a baseline level of performance for private sensor solutions operating in this space. 
-
-**DLQ model (single source) paper**: [Daniels et al., 2024](https://doi.org/10.1525/elementa.2023.00110)    
-**DLQ model (single source) code**: [GitHub](https://github.com/wsdaniels/DLQ)    
-**MDLQ model (multisource) paper**: [Daniels et al., 2025](https://doi.org/10.48550/arXiv.2506.03395)    
-**MDLQ model (multisource) code**: coming soon!
-
-<div style="text-align: center;">
-  <img src="/images/research_page/DLQ.png" style="max-width: 100%; height: auto;">
-</div>
-
 
 ## Fast implementation of the Gaussian puff dispersion model
 
@@ -63,6 +66,36 @@ We created a computationally efficient implementation of the Gaussian puff model
 
 
 
+## Evaluation of continuous monitoring systems on operating oil and gas sites
+
+We compared continuous monitoring systems (CMS) from three different vendors on six operating oil and gas sites. We highlight similarities and differences between the three CMS solutions when deployed in the field and compare their output to concurrent top-down aerial measurements and to site-level bottom-up inventories. Furthermore, we compare vendor-provided emission rate estimates to estimates from an open-source quantification algorithm applied to the raw CMS concentration data. This experimental setup allows us to separate the effect of the sensor platform (i.e., sensor type and arrangement) from the quantification algorithm. Results from this study have important implications for developing measurement-informed inventories and for incorporating CMS-inferred emission characteristics into emission mitigation efforts.
+
+**Intercomparison paper**: [Daniels et al., 2025](https://doi.org/10.1021/acsestair.4c00298)      
+
+<div style="text-align: center;">
+  <img src="/images/research_page/intercomparison.png" style="max-width: 75%; height: auto;">
+</div>
+
+
+
+## Tracking supply chain-specific methane emissions 
+
+We conducted a large-scale methane measurement campaign across the production, midstream, and liquefaction segments of the oil and gas supply chain to estimate supply chain-specific intensities. We showed that emissions can fluctuate dramatically on short time scales and that high frequency measurements from continuous monitoring systems can help interpret individual snapshot measurements from aerial or satellite platforms. We wrote two papers for each segment of the supply chain and one synthesis paper. Papers that I was involved in are bolded below.
+
+**Production Paper \#1**: [Wang et al., 2022](https://doi.org/10.1021/acs.est.2c06211)   
+**Production Paper \#2**: [Daniels et al., 2023](https://doi.org/10.1021/acs.est.3c01121)   
+Midstream Paper \#1: [Brown et al., 2023](https://doi.org/10.1021/acs.est.3c01321)   
+Midstream Paper \#2: [Brown et al., 2024](https://doi.org/10.3390/atmos15040447)   
+Liquefaction Paper \#1: [Zhu et al., 2024](https://doi.org/10.1021/acs.estlett.4c00713)   
+**Liquefaction Paper \#2**: [Khaliukova et al., 2025](https://doi.org/10.1021/acsestair.4c00301)   
+**Synthesis Paper**: [Zhu et al., 2026](https://doi.org/10.1021/acs.est.5c11217)
+
+<div style="text-align: center;">
+  <img src="/images/research_page/QMRV.png" style="max-width: 100%; height: auto;">
+</div>
+
+
+
 ## Interpretable models for fire season intensity
 
 We investigated the relationship between climate variability and fire-season carbon monoxide (CO) enhancements in Maritime Southeast Asia (MSEA). Using satellite observations from 2001 to 2019, we built interpretable statistical models that relate weekly CO anomalies to major climate modes, including ENSO, the Indian Ocean Dipole, and the Madden–Julian Oscillation. ENSO explained the most variability in atmospheric CO, but we found that including nonlinear effects and interactions among climate indices significantly improved the models. Our results show that interpretable models can robustly quantify the impact of large-scale climate patterns on seasonal fire intensity and CO emissions in MSEA. Our approach provides a framework for projecting how climate variability may influence future biomass burning and atmospheric pollution under climate change. There have been two papers from this project. Papers that I was involved in are bolded below.
@@ -73,24 +106,3 @@ Models for all Southern Hemisphere fire regions: [Buchholz et al., 2018](https:/
 <div style="text-align: center;">
   <img src="/images/research_page/co_modeling.png" style="max-width: 100%; height: auto;">
 </div>
-
-
-
-
-## Tracking supply chain-specific methane emissions 
-
-We conducted a large-scale methane measurement campaign across the production, midstream, and liquefaction segments of the oil and gas supply chain to create more accurate emissions inventories. We showed that emissions can fluctuate dramatically on short time scales and that high frequency measurements from continuous monitoring systems can help interpret individual snapshot measurements from aerial or satellite platforms. We wrote two papers for each segment of the supply chain and one synthesis paper. Papers that I was involved in are bolded below.
-
-**Production Paper \#1**: [Wang et al., 2022](https://doi.org/10.1021/acs.est.2c06211)   
-**Production Paper \#2**: [Daniels et al., 2023](https://doi.org/10.1021/acs.est.3c01121)   
-Midstream Paper \#1: [Brown et al., 2023](https://doi.org/10.1021/acs.est.3c01321)   
-Midstream Paper \#2: [Brown et al., 2024](https://doi.org/10.3390/atmos15040447)   
-Liquefaction Paper \#1: [Zhu et al., 2024](https://doi.org/10.1021/acs.estlett.4c00713)   
-**Liquefaction Paper \#2**: [Khaliukova et al., 2025](https://doi.org/10.1021/acsestair.4c00301)   
-**Synthesis Paper**: [Zhu et al., 2025](https://doi.org/10.26434/chemrxiv-2025-8751d)
-
-<div style="text-align: center;">
-  <img src="/images/research_page/QMRV.png" style="max-width: 100%; height: auto;">
-</div>
-
-
