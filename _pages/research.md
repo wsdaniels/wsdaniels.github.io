@@ -10,11 +10,11 @@ header:
 
 ## Sample size guidance for methane measurement campaigns
 
-How many oil and gas sites do you need to measure to obtain an accurate estimate of average emissions across a broader population of sites? This question has important implications for creating measurement-based or measurement-informed emissions inventories for the oil and gas sector, but it is complicated by the fact that oil and gas methane emissions follow highly right-skewed distributions, where a small number of "super-emitters" heavily influence total emissions. The presence of one super-emitter in a small sample can change the sample mean by an order of magnitude. We quantify some of the statistical implications of sampling from these distributions using six US oil and gas basins as an example and provide sample size guidance in these basins to bound error from sampling variability. We find that characteristics of the largest emissions drive sample size requirements and that differences between basins necessitate basin-specific sampling strategies.
+How many oil and gas sites do you need to measure to obtain an accurate estimate of average emissions across a broader population of sites? This question has important implications for creating measurement-informed emissions inventories, but it is complicated by the fact that oil and gas methane emissions follow highly right-skewed distributions, where a small number of "super-emitters" heavily influence total emissions. We quantify some of the statistical implications of sampling from these distributions using six US oil and gas basins as an example and provide sample size guidance to bound errors introduced by sampling variability. We find that characteristics of the largest emissions drive sample size requirements and that differences between basins necessitate basin-specific sampling strategies.
 
-We created a web tool to reproduce our analysis in the six oil and gas basins used in the paper. You can also upload your own distribution of emission rates to this tool to get more targeted sample size guidance if you have representative emissions information a priori in your study domain (e.g., data from a previous measurement campaign). Credit to Michael Basanese at the Colorado School of Mines for developing this web tool!
+We created an interactive web tool to reproduce the analysis in the paper. If you already have some emissions information for a more specific study domain (e.g., data from a previous measurement campaign), then you can upload that distribution of emission rates to the web tool for even more targeted sample size guidance. Credit to Michael Basanese at the Colorado School of Mines for developing the web tool!
 
-**Sampling variability paper**: [Daniels et al., 2026](https://doi.org/10.31223/X5MR0K) 
+**Sampling paper**: [Daniels et al., 2026](https://doi.org/10.31223/X5MR0K)     
 **Web tool**: [Sampling variability app](https://mbasanese-sampling.share.connect.posit.cloud/)
 
 <div style="text-align: center;">
@@ -66,7 +66,7 @@ We created a computationally efficient implementation of the Gaussian puff model
 
 
 
-## Evaluation of continuous monitoring systems on operating oil and gas sites
+## Evaluation of continuous monitoring systems on operating sites
 
 We compared continuous monitoring systems (CMS) from three different vendors on six operating oil and gas sites. We highlight similarities and differences between the three CMS solutions when deployed in the field and compare their output to concurrent top-down aerial measurements and to site-level bottom-up inventories. Furthermore, we compare vendor-provided emission rate estimates to estimates from an open-source quantification algorithm applied to the raw CMS concentration data. This experimental setup allows us to separate the effect of the sensor platform (i.e., sensor type and arrangement) from the quantification algorithm. Results from this study have important implications for developing measurement-informed inventories and for incorporating CMS-inferred emission characteristics into emission mitigation efforts.
 
