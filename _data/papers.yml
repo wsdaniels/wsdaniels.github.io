@@ -3,6 +3,24 @@ categories:
   - heading: "Submitted Papers"
     pubs:
 
+    - title: "Satellite-based emissions estimate indicates progress toward China's methane mitigation goals"
+      authors:
+      - Ziting Huang
+      - Ao Chen
+      - Leyang Feng
+      - William Daniels
+      - Dylan Gaeta
+      - Kristan Morgan
+      - Lee Murray
+      - Xueying Yu
+      - Benjamin Hobbs
+      - Scot Miller
+      year: 2026
+      venue: arXiv
+      links:
+        - text: "arXiv"
+          url: https://doi.org/10.48550/arXiv.2607.16931
+
     - title: "No detectable inflection point in U.S. oil and gas methane emissions following the Inflation Reduction Act"
       authors:
       - Ao Chen
