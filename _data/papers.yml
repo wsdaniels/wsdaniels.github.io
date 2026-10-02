@@ -3,6 +3,25 @@ categories:
   - heading: "Submitted Papers"
     pubs:
 
+    - title: "Measurement-informed methane inventories for Colorado's upstream oil and gas sector: two independent modeling approaches"
+      authors:
+      - Jenna Brown
+      - Callan Okenberg
+      - Michael Moy
+      - William Daniels
+      - Arthur Santos
+      - Ethan Rimelman
+      - Olga Khaliukova
+      - Winrose Mollel
+      - Daniel Zimmerle
+      - Dorit Hammerling
+      - Anna Hodshire
+      year: 2026
+      venue: ChemRxiv
+      links:
+        - text: "ChemRxiv"
+          url: https://doi.org/10.26434/chemrxiv.15008067/v1
+
     - title: "Satellite-based emissions estimate indicates progress toward China's methane mitigation goals"
       authors:
       - Ziting Huang
@@ -43,30 +62,34 @@ categories:
         - text: "EarthArXiv"
           url: https://doi.org/10.21203/rs.3.rs-9295605/v1
 
-    - title: "Sampling variability under extreme skewness: sample size guidance for future methane measurement campaigns"
+    - title: "Future methane measurement campaigns require basin-specific sampling strategies"
       authors:
       - William Daniels
       - Dorit Hammerling
       year: 2026
-      venue: EarthArXiv
+      venue: "Communications Earth & Environment"
       links:
         - text: "EarthArXiv"
           url: https://doi.org/10.31223/X5MR0K
+
+  - heading: "Refereed Papers"
+    pubs: 
 
     - title: A Bayesian hierarchical model for methane emission source apportionment
       authors:
       - William Daniels
       - Douglas Nychka
       - Dorit Hammerling
-      year: 2025
-      venue: arXiv
+      year: 2026
+      venue: Annals of Applied Statistics
+      volumeissue: 20(3), 2195-2213
       links:
+        - text: "AOAS"
+          url: https://doi.org/10.1214/26-AOAS2202
         - text: "arXiv"
           url: https://doi.org/10.48550/arXiv.2506.03395
-
-
-  - heading: "Refereed Papers"
-    pubs: 
+        - text: "GitHub"
+          url: https://github.com/wsdaniels/MDLQ
 
     - title: Tracking U.S. liquefied natural gas supply chain greenhouse gas emissions intensity through direct measurements
       authors:
@@ -105,6 +128,8 @@ categories:
           url: https://doi.org/10.1038/s41598-025-99491-x
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv-2023-hc95q-v4
+        - text: "GitHub"
+          url: https://github.com/Hammerling-Research-Group/FastGaussianPuff
 
     - title: Investigating aerial data preanalysis schemes and site-level methane emission aggregation methods at liquefied natural gas facilities
       authors:
@@ -155,6 +180,8 @@ categories:
           url: https://doi.org/10.1021/acs.estlett.4c00687
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv-2024-f921j-v2
+        - text: "GitHub"
+          url: https://github.com/wsdaniels/CMS-durations
 
     - title: Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems
       authors:
@@ -169,6 +196,8 @@ categories:
           url: https://doi.org/10.1525/elementa.2023.00110
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv-2022-xxkk8-v3
+        - text: "GitHub"
+          url: https://github.com/wsdaniels/DLQ
 
     - title: "Toward multiscale measurement-informed methane inventories: reconciling bottom-up site-level inventories with top-down measurements using continuous monitoring systems"
       authors:
@@ -224,6 +253,8 @@ categories:
           url: https://opensky.ucar.edu/islandora/object/articles:25676
         - text: EarthArXiv
           url: https://doi.org/10.31223/X59320
+        - text: "GitHub"
+          url: https://github.com/wsdaniels/COmodeling
 
 
   - heading: "Non-Refereed Papers and Articles"
