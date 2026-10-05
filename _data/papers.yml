@@ -62,6 +62,9 @@ categories:
         - text: "EarthArXiv"
           url: https://doi.org/10.21203/rs.3.rs-9295605/v1
 
+  - heading: "Refereed Papers"
+    pubs: 
+
     - title: "Future methane measurement campaigns require basin-specific sampling strategies"
       authors:
       - William Daniels
@@ -69,11 +72,10 @@ categories:
       year: 2026
       venue: "Communications Earth & Environment"
       links:
+        - text: "Comms Earth & Environ"
+          url: https://doi.org/10.1038/s43247-026-04089-4
         - text: "EarthArXiv"
           url: https://doi.org/10.31223/X5MR0K
-
-  - heading: "Refereed Papers"
-    pubs: 
 
     - title: A Bayesian hierarchical model for methane emission source apportionment
       authors:
