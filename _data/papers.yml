@@ -74,6 +74,8 @@ categories:
       links:
         - text: "Comms Earth & Environ"
           url: https://doi.org/10.1038/s43247-026-04089-4
+        - text: "Webtool"
+          url: https://mbasanese-sampling.share.connect.posit.cloud/
         - text: "EarthArXiv"
           url: https://doi.org/10.31223/X5MR0K
 
