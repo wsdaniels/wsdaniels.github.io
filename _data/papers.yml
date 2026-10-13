@@ -40,6 +40,23 @@ categories:
         - text: "arXiv"
           url: https://doi.org/10.48550/arXiv.2607.16931
 
+  - heading: "Refereed Papers"
+    pubs: 
+
+    - title: "Future methane measurement campaigns require basin-specific sampling strategies"
+      authors:
+      - William Daniels
+      - Dorit Hammerling
+      year: 2026
+      venue: "Communications Earth & Environment"
+      links:
+        - text: "CEE"
+          url: https://doi.org/10.1038/s43247-026-04089-4
+        - text: "Webtool"
+          url: https://mbasanese-sampling.share.connect.posit.cloud/
+        - text: "EarthArXiv"
+          url: https://doi.org/10.31223/X5MR0K
+
     - title: "No detectable inflection point in U.S. oil and gas methane emissions following the Inflation Reduction Act"
       authors:
       - Ao Chen
@@ -57,27 +74,13 @@ categories:
       - Jialuo Yuan
       - Scot Miller
       year: 2026
-      venue: EarthArXiv
+      venue: "Communications Earth & Environment"
+      volumeissue: 7, 813
       links:
+        - text: "CEE"
+          url: https://doi.org/10.1038/s43247-026-04039-0
         - text: "EarthArXiv"
           url: https://doi.org/10.21203/rs.3.rs-9295605/v1
-
-  - heading: "Refereed Papers"
-    pubs: 
-
-    - title: "Future methane measurement campaigns require basin-specific sampling strategies"
-      authors:
-      - William Daniels
-      - Dorit Hammerling
-      year: 2026
-      venue: "Communications Earth & Environment"
-      links:
-        - text: "Comms Earth & Environ"
-          url: https://doi.org/10.1038/s43247-026-04089-4
-        - text: "Webtool"
-          url: https://mbasanese-sampling.share.connect.posit.cloud/
-        - text: "EarthArXiv"
-          url: https://doi.org/10.31223/X5MR0K
 
     - title: A Bayesian hierarchical model for methane emission source apportionment
       authors:
