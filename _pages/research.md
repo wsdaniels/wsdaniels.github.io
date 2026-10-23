@@ -14,7 +14,7 @@ How many oil and gas sites do you need to measure to obtain an accurate estimate
 
 We created an interactive web tool to reproduce the analysis in the paper. If you already have some emissions information for a more specific study domain (e.g., data from a previous measurement campaign), then you can upload that distribution of emission rates to the web tool for even more targeted sample size guidance. Credit to Michael Basanese at the Colorado School of Mines for developing the web tool!
 
-**Sampling paper**: [Daniels et al., 2026](https://doi.org/10.31223/X5MR0K)     
+**Sampling paper**: [Daniels et al., 2026](https://doi.org/10.1038/s43247-026-04089-4)     
 **Web tool**: [Sampling variability app](https://mbasanese-sampling.share.connect.posit.cloud/)
 
 <div style="text-align: center;">
@@ -30,8 +30,8 @@ Both models have been evaluated on controlled releases at the Methane Emissions 
 
 **DLQ model (single source) paper**: [Daniels et al., 2024](https://doi.org/10.1525/elementa.2023.00110)    
 **DLQ model (single source) code**: [GitHub](https://github.com/wsdaniels/DLQ)    
-**MDLQ model (multisource) paper**: [Daniels et al., 2026](https://doi.org/10.48550/arXiv.2506.03395)    
-**MDLQ model (multisource) code**: coming soon!
+**MDLQ model (multisource) paper**: [Daniels et al., 2026](https://doi.org/10.1214/26-AOAS2202)    
+**MDLQ model (multisource) code**: [GitHub](https://github.com/wsdaniels/MDLQ)  
 
 <div style="text-align: center;">
   <img src="/images/research_page/DLQ.png" style="max-width: 100%; height: auto;">
