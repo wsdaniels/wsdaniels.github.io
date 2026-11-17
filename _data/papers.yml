@@ -3,6 +3,43 @@ categories:
   - heading: "Submitted Papers"
     pubs:
 
+    - title: "Atmospheric observations reveal Alaskan wetland CH<sub>4</sub> fluxes are up to threefold higher than process-based model estimates"
+      authors:
+      - Hanyu Liu
+      - Charles Miller
+      - Colm Sweeney
+      - Kathryn Mckain
+      - Jennifer Watts
+      - Roisin Commane
+      - Luke Schiferl
+      - Zhen Zhang
+      - Benjamin Poulter
+      - Leyang Feng
+      - Ao Chen
+      - Ziting Huang
+      - Dylan Gaeta
+      - Kristan Morgan
+      - William Daniels
+      - Qiulun Li
+      - Joe Melton
+      - Vineet Yadav
+      - Deborah Huntzinger
+      - Scot Miller
+      year: 2026
+      venue: "In review at ACP"
+      links:
+        - text: "EGUsphere"
+          url: https://doi.org/10.5194/egusphere-2026-6528
+
+    - title: "Enabling facility-level methane emissions reporting with continuous monitoring systems"
+      authors:
+      - Troy Sorensen
+      - William Daniels
+      - Spencer Kidd
+      - Dorit Hammerling
+      year: 2026
+      venue: "In revision at Environmental Research Communications"
+
     - title: "Measurement-informed methane inventories for Colorado's upstream oil and gas sector: two independent modeling approaches"
       authors:
       - Jenna Brown
@@ -17,7 +54,7 @@ categories:
       - Dorit Hammerling
       - Anna Hodshire
       year: 2026
-      venue: ChemRxiv
+      venue: "In revision at ACS ES&T Air"
       links:
         - text: "ChemRxiv"
           url: https://doi.org/10.26434/chemrxiv.15008067/v1
@@ -35,13 +72,22 @@ categories:
       - Benjamin Hobbs
       - Scot Miller
       year: 2026
-      venue: arXiv
+      venue: "In revision at Communications Earth & Environment"
       links:
         - text: "arXiv"
           url: https://doi.org/10.48550/arXiv.2607.16931
 
   - heading: "Refereed Papers"
     pubs: 
+
+    - title: "Extreme wildfire-related CO anomalies in Southeast Australia linked to Indian Ocean Dipole variability"
+      authors:
+      - Ryan Peterson
+      - Rebecca Buchholz
+      - William Daniels
+      - Dorit Hammerling
+      year: 2026
+      venue: "Geophysical Research Letters"
 
     - title: "Future methane measurement campaigns require basin-specific sampling strategies"
       authors:
