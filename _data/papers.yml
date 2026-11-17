@@ -127,7 +127,7 @@ categories:
       links:
         - text: "CEE"
           url: https://doi.org/10.1038/s43247-026-04039-0
-        - text: "EarthArXiv"
+        - text: "Research Square"
           url: https://doi.org/10.21203/rs.3.rs-9295605/v1
 
     - title: A Bayesian hierarchical model for methane emission source apportionment
